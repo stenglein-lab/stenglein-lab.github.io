@@ -73,6 +73,20 @@
     <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/Stenglein_reptile_bornavirus/">
+    				<img width=100 class="media-object" src="/images/papers/rbv.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/Stenglein_reptile_bornavirus/" class="off">Genome Sequence of a Bornavirus Recovered from an African Garter Snake (Elapsoidea loveridgei).</a></div>
+    				<p class="note">Stenglein et al. 2014 Genome Announcements</p>
+  				</div>
+			</div>
+        </div>
+    
+
+    
+		<div class="col-md-8 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-BPNV/">
     				<img width=100 class="media-object" src="/images/papers/Ballpython.png">
   				</a>
@@ -96,9 +110,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Koellhoffer-CASV_GP2/">
@@ -110,9 +124,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Mayer-polar_bear/">
@@ -138,9 +152,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-snake_arenaviruses/">
@@ -152,9 +166,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Yozwiak-seq_tropical_febrile/">
@@ -180,9 +194,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Refsland-A3_qPCR/">
@@ -194,9 +208,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-foreign_DNA/">
@@ -222,9 +236,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Jonsson-PERV/">
@@ -236,9 +250,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Jonsson-artiodactyle/">
@@ -264,9 +278,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-</div><div class="bigspacer"></div>
+
 
 	
 	</div>
