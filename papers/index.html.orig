@@ -73,6 +73,20 @@
     <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/Radoshitzky_arenavirus_taxonomy/">
+    				<img width=100 class="media-object" src="/images/papers/vlp.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/Radoshitzky_arenavirus_taxonomy/" class="off">Past, present, and future of arenavirus taxonomy</a></div>
+    				<p class="note">Radoshitzky et al. 2015 Archives of Virology</p>
+  				</div>
+			</div>
+        </div>
+    
+
+    
+		<div class="col-md-8 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein_reptile_bornavirus/">
     				<img width=100 class="media-object" src="/images/papers/rbv.png">
   				</a>
@@ -96,9 +110,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Szentiks-pipeline/">
@@ -110,9 +124,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Koellhoffer-CASV_GP2/">
@@ -138,9 +152,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-rastv/">
@@ -152,9 +166,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-snake_arenaviruses/">
@@ -180,9 +194,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Sadler-sublethal/">
@@ -194,9 +208,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Refsland-A3_qPCR/">
@@ -222,9 +236,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-A3G_loc/">
@@ -236,9 +250,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Jonsson-PERV/">
@@ -264,9 +278,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-A3_LINE/">
@@ -278,9 +292,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-
+</div><div class="bigspacer"></div>
 
 	
 	</div>
