@@ -12,8 +12,8 @@ push:
 	git commit -m "Updated the site."; \
 	git push origin master;
 
-# build: clean
-build: 
+# build: 
+build: clean
 	jekyll build 
 	cp -R _site/* $(GH_PAGES_DIR)/;
 		
