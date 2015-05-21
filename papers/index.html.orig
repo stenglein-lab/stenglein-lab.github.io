@@ -73,6 +73,20 @@
     <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/Stenglein_arenavirus_diversity/">
+    				<img width=100 class="media-object" src="/images/papers/diversity_paper_image.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/Stenglein_arenavirus_diversity/" class="off">Widespread Recombination, Reassortment, and Transmission of Unbalanced Compound Viral Genotypes in Natural Arenavirus Infections</a></div>
+    				<p class="note">Stenglein et al. 2015 PLoS Pathogens</p>
+  				</div>
+			</div>
+        </div>
+    
+
+    
+		<div class="col-md-8 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/Radoshitzky_arenavirus_taxonomy/">
     				<img width=100 class="media-object" src="/images/papers/vlp.png">
   				</a>
@@ -96,9 +110,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-BPNV/">
@@ -110,9 +124,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Szentiks-pipeline/">
@@ -138,9 +152,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Mayer-polar_bear/">
@@ -152,9 +166,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-rastv/">
@@ -180,9 +194,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Yozwiak-seq_tropical_febrile/">
@@ -194,9 +208,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Sadler-sublethal/">
@@ -222,9 +236,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-foreign_DNA/">
@@ -236,9 +250,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-A3G_loc/">
@@ -264,9 +278,9 @@
   				</div>
 			</div>
         </div>
-    
+    </div><div class="bigspacer"></div>
 
-    
+    <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Jonsson-artiodactyle/">
@@ -278,9 +292,9 @@
   				</div>
 			</div>
         </div>
-    </div><div class="bigspacer"></div>
+    
 
-    <div class="row">
+    
 		<div class="col-md-8 paperbox">
 			<div class="media">
   				<a class="pull-right" href="/papers/Stenglein-A3_LINE/">
