@@ -1,10 +1,10 @@
 deploy: build push
 
 .PHONY: clean
-# clean:
-	# rm -rf _site/*
-	# cd $(GH_PAGES_DIR); \
-	# git rm -rf *;
+clean:
+	rm -rf _site/*
+	cd $(GH_PAGES_DIR); \
+	git rm -rf *;
 
 push:
 	cd $(GH_PAGES_DIR); \
@@ -12,8 +12,8 @@ push:
 	git commit -m "Updated the site."; \
 	git push origin master;
 
-build: 
-# build: clean
+# build: 
+build: clean
 	jekyll build 
 	cp -R _site/* $(GH_PAGES_DIR)/;
 		
