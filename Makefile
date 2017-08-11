@@ -4,7 +4,7 @@ deploy: build push
 clean:
 	rm -rf _site/*
 	cd $(GH_PAGES_DIR); \
-	git rm -rf *;
+	# git rm -rf *;
 
 push:
 	cd $(GH_PAGES_DIR); \
