@@ -6,6 +6,9 @@
 	<title>Xenosurveillance reflects traditional sampling techniques for the identification of human pathogens: A comparative study in West Africa</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="" href="http://stengleinlab.org/feed.xml">
+	
     <!-- Customized Bootstrap + Font Awesome + Solarized -->
     <link href="/css/style.css" rel="stylesheet" media="screen">
 
@@ -13,21 +16,35 @@
 	<link rel="shortcut icon" href="/images/favicon.png"/>	
 
 	<!-- Typekit -->
-	<script type="text/javascript" src="//use.typekit.net/xeu8jut.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script>
+	  (function(d) {
+		var config = {
+		  kitId: 'xeu8jut',
+		  scriptTimeout: 3000
+		},
+		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
 		
 	<!-- Google Analytics -->	
-   <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-   
-     ga('create', 'UA-55282509-1', 'auto');
-     ga('send', 'pageview');
-   
-   </script>
-			
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-55282509-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+	
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+	
+	<!-- Bootstrap -->
+	<script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script>
+
 </head>
 
 <body>
@@ -35,41 +52,50 @@
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
 			<div class="container">	
-				
 				<div class="navbar-header">
-					<object class="pull-left logo" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">Stenglein Lab</a>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+										
+					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+					<a class="navbar-brand" href="/">Stenglein lab</a>
+					
 				</div>
-				
-				<ul class="nav navbar-nav navbar-right">
-					
-					<li>
-					
-					<a href="/blog/">blog</a>
-					</li>
-					
-					<li>
-					
-					<a href="/protocols/">protocols</a></li>
-					
-					<li>
-					
-					<a href="/software/">software</a></li>
-					
-					<li class="active">
-					
-					<a href="/papers/">papers</a></li>
-               <!--
-					
-					<li>
-					
-					<a href="/projects/">projects</a></li>	  
-               -->
-					
-					<li>
-					
-					<a href="/team/">team</a></li>	  	  
-				</ul>
+				<div class="collapse navbar-collapse" id="navbar-collapse-element">
+					<ul class="nav navbar-nav navbar-right">
+						
+						<li>
+						
+						<a href="/blog/">blog</a>
+						</li>
+						
+                                                <li>
+                                                
+                                                <a href="/protocols/">protocols</a></li>
+                                                
+                                                <li>
+                                                
+                                                <a href="/software/">software</a></li>
+						
+						<li class="active">
+						
+						<a href="/papers/">papers</a>
+						<!--
+						</li>
+						
+						<li>
+						
+						<a href="/projects/">projects</a></li>	  
+						-->
+						
+						<li>
+						
+						<a href="/team/">team</a></li>	  	  
+					</ul>
+				</div>
 			</div>
 		</nav>	
 	</div>
@@ -138,15 +164,18 @@
 	</div>
 	<div class="col-md-8">
 		<div class="post">
-			<h2 id="abstract">Abstract</h2>
+			<h2>Abstract</h2>
 
-<h3 id="background">BACKGROUND:</h3>
+<h3>BACKGROUND:</h3>
+
 <p>Novel surveillance strategies are needed to detect the rapid and continuous emergence of infectious disease agents. Ideally, new sampling strategies should be simple to implement, technologically uncomplicated, and applicable to areas where emergence events are known to occur. To this end, xenosurveillance is a technique that makes use of blood collected by hematophagous arthropods to monitor and identify vertebrate pathogens. Mosquitoes are largely ubiquitous animals that often exist in sizable populations. As well, many domestic or peridomestic species of mosquitoes will preferentially take blood-meals from humans, making them a unique and largely untapped reservoir to collect human blood.</p>
 
-<h3 id="methodologyprincipal-findings">METHODOLOGY/PRINCIPAL FINDINGS:</h3>
+<h3>METHODOLOGY/PRINCIPAL FINDINGS:</h3>
+
 <p>We sought to take advantage of this phenomenon by systematically collecting blood-fed mosquitoes during a field trail in Northern Liberia to determine whether pathogen sequences from blood engorged mosquitoes accurately mirror those obtained directly from humans. Specifically, blood was collected from humans via finger-stick and by aspirating bloodfed mosquitoes from the inside of houses. Shotgun metagenomic sequencing of RNA and DNA derived from these specimens was performed to detect pathogen sequences. Samples obtained from xenosurveillance and from finger-stick blood collection produced a similar number and quality of reads aligning to two human viruses, GB virus C and hepatitis B virus.</p>
 
-<h3 id="conclusionssignificance">CONCLUSIONS/SIGNIFICANCE:</h3>
+<h3>CONCLUSIONS/SIGNIFICANCE:</h3>
+
 <p>This study represents the first systematic comparison between xenosurveillance and more traditional sampling methodologies, while also demonstrating the viability of xenosurveillance as a tool to sample human blood for circulating pathogens.</p>
 
 		</div>
@@ -156,15 +185,9 @@
 
 	
 	</div>
-		
+	
 	<div id="footer"><span style="display:none">foo</span></div>
-	    		
-	<!-- MathJax support -->
-	<!-- <script type="text/javascript" -->
-	 <!-- <src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-	<!-- MathJax config -->
-	<!-- <script src="/js/mathjax.config.js"></script>	 -->
-			
+		
 </body>
 </html>
 

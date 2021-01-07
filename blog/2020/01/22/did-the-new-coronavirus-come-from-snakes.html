@@ -6,6 +6,9 @@
 	<title>There is no existing good evidence that 2019-nCoV originated in snakes.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="" href="http://stengleinlab.org/feed.xml">
+	
     <!-- Customized Bootstrap + Font Awesome + Solarized -->
     <link href="/css/style.css" rel="stylesheet" media="screen">
 
@@ -13,21 +16,35 @@
 	<link rel="shortcut icon" href="/images/favicon.png"/>	
 
 	<!-- Typekit -->
-	<script type="text/javascript" src="//use.typekit.net/xeu8jut.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script>
+	  (function(d) {
+		var config = {
+		  kitId: 'xeu8jut',
+		  scriptTimeout: 3000
+		},
+		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
 		
 	<!-- Google Analytics -->	
-   <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-   
-     ga('create', 'UA-55282509-1', 'auto');
-     ga('send', 'pageview');
-   
-   </script>
-			
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-55282509-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+	
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+	
+	<!-- Bootstrap -->
+	<script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script>
+
 </head>
 
 <body>
@@ -35,103 +52,179 @@
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
 			<div class="container">	
-				
 				<div class="navbar-header">
-					<object class="pull-left logo" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">Stenglein Lab</a>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+										
+					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+					<a class="navbar-brand" href="/">Stenglein lab</a>
+					
 				</div>
-				
-				<ul class="nav navbar-nav navbar-right">
-					
-					<li class="active">
-					
-					<a href="/blog/">blog</a>
-					</li>
-					
-					<li>
-					
-					<a href="/protocols/">protocols</a></li>
-					
-					<li>
-					
-					<a href="/software/">software</a></li>
-					
-					<li>
-					
-					<a href="/papers/">papers</a></li>
-               <!--
-					
-					<li>
-					
-					<a href="/projects/">projects</a></li>	  
-               -->
-					
-					<li>
-					
-					<a href="/team/">team</a></li>	  	  
-				</ul>
+				<div class="collapse navbar-collapse" id="navbar-collapse-element">
+					<ul class="nav navbar-nav navbar-right">
+						
+						<li class="active">
+						
+						<a href="/blog/">blog</a>
+						</li>
+						
+                                                <li>
+                                                
+                                                <a href="/protocols/">protocols</a></li>
+                                                
+                                                <li>
+                                                
+                                                <a href="/software/">software</a></li>
+						
+						<li>
+						
+						<a href="/papers/">papers</a>
+						<!--
+						</li>
+						
+						<li>
+						
+						<a href="/projects/">projects</a></li>	  
+						-->
+						
+						<li>
+						
+						<a href="/team/">team</a></li>	  	  
+					</ul>
+				</div>
 			</div>
 		</nav>	
 	</div>
 	
 	<div class="container">	
 		
-	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<div class="blog-post">
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			<div class="media">
+				<div class="media-body">
+					<div class="title media-heading">
+						<a href="/blog/2020/01/22/did-the-new-coronavirus-come-from-snakes.html" class="off">There is no existing good evidence that 2019-nCoV originated in snakes.</a>
+					</div>
+					<p>
+					<div class="smallhead">
+						22 Jan 2020
+						
+						by <a class="off" href="
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+							
+								
+									/team/2014/09/29/mark-stenglein.html
+								
+							
+						">
+						Mark Stenglein
+						</a>
+						
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-1"></div>
+	</div>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">There is no existing good evidence that 2019-nCoV originated in snakes.</h1>
-    <p class="post-meta"><time datetime="2020-01-22T00:00:00-07:00" itemprop="datePublished">Jan 22, 2020</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Mark Stenglein</span></span></p>
-  </header>
+	<div class="bigspacer"></div>
 
-  <div class="post-content" itemprop="articleBody">
-    <p><a href="https://doi.org/10.1002/JMV.25682">A paper</a> published online on Jan 20, 2020 in the Journal of Medical Virology, titled <em>Homologous recombination within the spike glycoprotein of the newly identified coronavirus 2019-nCoV may boost cross-species transmission from snake to human</em> raises the intriguing possibility that a new coronavirus of substantial public health concern, 2019-nCoV, may have originated in snakes.</p>
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			
+			<div class="post">
+				<p><a href="https://doi.org/10.1002/JMV.25682">A paper</a> published online on Jan 20, 2020 in the Journal of Medical Virology, titled <em>Homologous recombination within the spike glycoprotein of the newly identified coronavirus 2019-nCoV may boost cross-species transmission from snake to human</em> raises the intriguing possibility that a new coronavirus of substantial public health concern, 2019-nCoV, may have originated in snakes.  </p>
 
-<p>The authors make two primary claims.  First, that 2019-nCoV is a recombinant virus. Second, that “…our evolutionary analysis suggest for the first time that snake is the most probable wildlife animal reservoir for the 2019-nCoV.”</p>
+<p>The authors make two primary claims.  First, that 2019-nCoV is a recombinant virus. Second, that &quot;...our evolutionary analysis suggest for the first time that snake is the most probable wildlife animal reservoir for the 2019-nCoV.&quot;  </p>
 
-<p>Recombination occurs when two viruses exchange genetic material. I’m not going to evaluate the claim that this virus may be recombinant.</p>
+<p>Recombination occurs when two viruses exchange genetic material. I&#39;m not going to evaluate the claim that this virus may be recombinant.  </p>
 
-<p>I will however, consider the evidence that this virus may have originally been transmitted to humans from snakes.  As I describe below, there is no direct evidence to support this claim, and the indirect evidence is flimsy.</p>
+<p>I will however, consider the evidence that this virus may have originally been transmitted to humans from snakes.  As I describe below, there is no direct evidence to support this claim, and the indirect evidence is flimsy.  </p>
 
-<p>Many pathogens can be transmitted from other animals to humans.  Snakes were apparently one of the types of animals sold at the seafood market that has been linked to many of the initial human cases of 2019-nCoV.  So it is plausible that this virus could have been from snakes.</p>
+<p>Many pathogens can be transmitted from other animals to humans.  Snakes were apparently one of the types of animals sold at the seafood market that has been linked to many of the initial human cases of 2019-nCoV.  So it is plausible that this virus could have been from snakes. </p>
 
-<p>There is no direct evidence that this type of coronavirus infects snakes. The authors do not identify a similar virus in snakes, and no similar coronaviruses have been identified previously in snakes.</p>
+<p>There is no direct evidence that this type of coronavirus infects snakes. The authors do not identify a similar virus in snakes, and no similar coronaviruses have been identified previously in snakes.  </p>
 
-<p>(My lab <a href="http://dx.doi.org/10.1128/mBio.01484-14">has</a> <a href="http://dx.doi.org/10.1016/j.virol.2017.12.008">studied</a> <a href="https://doi.org/10.3389/fvets.2019.00338">respiratory viruses</a> of snakes that are belong to the same umbrella virus group as 2019-nCoV, but these are distant relatives).</p>
+<p>(My lab <a href="http://dx.doi.org/10.1128/mBio.01484-14">has</a> <a href="http://dx.doi.org/10.1016/j.virol.2017.12.008">studied</a> <a href="https://doi.org/10.3389/fvets.2019.00338">respiratory viruses</a> of snakes that are belong to the same umbrella virus group as 2019-nCoV, but these are distant relatives).  </p>
 
-<p>The main line of evidence the authors present to support the claim that this virus may have originated in snakes is indirect, and based on codon usage patterns.  <a href="https://en.wikipedia.org/wiki/Genetic_code">Codons</a> are DNA base triplets that encode a single amino acid in a protein.  The same amino acid may be encoded by different codons, so there is flexibility in how a particular protein sequence could be encoded.  Different organisms tend to use codons in a characteristic way.  Viruses that matched their codon usage to that of their host could have an evolutionary advantage.</p>
+<p>The main line of evidence the authors present to support the claim that this virus may have originated in snakes is indirect, and based on codon usage patterns.  <a href="https://en.wikipedia.org/wiki/Genetic_code">Codons</a> are DNA base triplets that encode a single amino acid in a protein.  The same amino acid may be encoded by different codons, so there is flexibility in how a particular protein sequence could be encoded.  Different organisms tend to use codons in a characteristic way.  Viruses that matched their codon usage to that of their host could have an evolutionary advantage.  </p>
 
-<p>So if, as seems likely, 2019-nCoV was recently transmitted to humans from other animals, then it might be possible to discern the original host by comparing codon usage patterns of the virus to candidate hosts.</p>
+<p>So if, as seems likely, 2019-nCoV was recently transmitted to humans from other animals, then it might be possible to discern the original host by comparing codon usage patterns of the virus to candidate hosts.  </p>
 
 <p>The authors compare the relative codon usage of 2019-nCoV with several candidate hosts, corresponding to some of the animals that were sold in the seafood market that has been linked to this outbreak and to the most closely related cornavirus to 2019-nCoV, bat-SL-CoVZC45, which was identified in a <a href="https://www.ncbi.nlm.nih.gov/nuccore/MG772933.1">bat in 2017</a>.  The authors then calcualte the squared Euclidian distance between as a measure of how similar these codon usage patterns are between the various species.  The results are shown in figure 3 of the paper:</p>
 
-<p><img src="/images/figure_3.png" alt="Figure 3" /></p>
+<p><img src="/images/figure_3.png" alt="Figure 3"></p>
 
-<p>The “heatmap” in panel A depicts the frequencies with which codons are used in different organisms.  Each column of the table is one organism.  Each row is one of 61 possible codons.  A redder color indicates that a particular codon is used more often in that organism.  A green color means that codon is used less frequently.  The heirarchical branching at the top of the figure indicates the extent to which these patterns are similar in different species.  You can see that the two similar viruses (the two left-most columns) have closely related codon usage patterns, as expected.  The two snakes have relatively similar patterns, and the mammals have similar patterns.</p>
+<p>The &quot;heatmap&quot; in panel A depicts the frequencies with which codons are used in different organisms.  Each column of the table is one organism.  Each row is one of 61 possible codons.  A redder color indicates that a particular codon is used more often in that organism.  A green color means that codon is used less frequently.  The heirarchical branching at the top of the figure indicates the extent to which these patterns are similar in different species.  You can see that the two similar viruses (the two left-most columns) have closely related codon usage patterns, as expected.  The two snakes have relatively similar patterns, and the mammals have similar patterns.  </p>
 
-<p>The claim that snakes are the “most probable wildlife” origin of 2019-nCoV rest on the bar graph shown in panel B which shows the Euclidian distance between the codon usage frequency vectors of 2019-nCoV and the various possible hosts.  The distance between 2019-nCoV and the 2 snakes is ~12-15, whereas the distance between that virus and the mammals is &gt;25.  At first glance, this seems convincing.</p>
+<p>The claim that snakes are the &quot;most probable wildlife&quot; origin of 2019-nCoV rest on the bar graph shown in panel B which shows the Euclidian distance between the codon usage frequency vectors of 2019-nCoV and the various possible hosts.  The distance between 2019-nCoV and the 2 snakes is ~12-15, whereas the distance between that virus and the mammals is &gt;25.  At first glance, this seems convincing.  </p>
 
-<p>But consider the case of the other coronavirus analyzed, bat-SL-CoVZC45.  This virus was isolated from a <a href="http://www.bio.bris.ac.uk/research/bats/China%20bats/rhinolophussinicus.htm"><em>Rhinolophus sinicus</em> bat</a> in China in 2017.  It’s codon usage pattern is essentially identical to that of 2019-nCoV.  Consequently, the distances between it’s codon usage pattern and the candidate hosts will be essentially identical to those shown in panel B.  <strong>By the logic presented here, the bat-SL-CoVZC45 virus, from a <em>Rhinolophus sinicus</em> bat, is more likely to have originated from a snake than from a <em>Rhinolophus sinicus</em> bat (which is one of the mammalian species analyzed).</strong></p>
+<p>But consider the case of the other coronavirus analyzed, bat-SL-CoVZC45.  This virus was isolated from a <a href="http://www.bio.bris.ac.uk/research/bats/China%20bats/rhinolophussinicus.htm"><em>Rhinolophus sinicus</em> bat</a> in China in 2017.  It&#39;s codon usage pattern is essentially identical to that of 2019-nCoV.  Consequently, the distances between it&#39;s codon usage pattern and the candidate hosts will be essentially identical to those shown in panel B.  <strong>By the logic presented here, the bat-SL-CoVZC45 virus, from a <em>Rhinolophus sinicus</em> bat, is more likely to have originated from a snake than from a <em>Rhinolophus sinicus</em> bat (which is one of the mammalian species analyzed).</strong></p>
 
-<p>It is possible to imagine a scenario where previously unknown snake coronaviruses independently transmitted to bats and to humans.  <strong>But in my opinion, a simpler and more likely explanation is that this kind of codon usage analysis has limited predictive value to pinpoint a virus’s exact host in a situation like this.</strong></p>
+<p>It is possible to imagine a scenario where previously unknown snake coronaviruses independently transmitted to bats and to humans.  <strong>But in my opinion, a simpler and more likely explanation is that this kind of codon usage analysis has limited predictive value to pinpoint a virus&#39;s exact host in a situation like this.</strong></p>
 
 <p>It remains possible that snakes are the source of 2019-nCoV, but the data presented here is not convincing evidence of that.</p>
 
+			</div>
+		</div>
+		<div class="col-md-1"></div>
+	</div>
 
-  </div>
+	<div class="bigspacer"></div>
+	<div class="spacer"></div>
 
-</article>
+</div>
 
 	
 	</div>
-		
+	
 	<div id="footer"><span style="display:none">foo</span></div>
-	    		
-	<!-- MathJax support -->
-	<!-- <script type="text/javascript" -->
-	 <!-- <src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-	<!-- MathJax config -->
-	<!-- <script src="/js/mathjax.config.js"></script>	 -->
-			
+		
 </body>
 </html>
 

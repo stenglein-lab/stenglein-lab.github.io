@@ -3,7 +3,7 @@ deploy: build push
 .PHONY: clean
 clean:
 	rm -rf _site/*
-	cd $(GH_PAGES_DIR); \
+	# cd $(GH_PAGES_DIR); \
 	# git rm -rf *;
 
 push:
@@ -14,10 +14,10 @@ push:
 
 # build: 
 build: clean
-	jekyll build 
+	bundle exec jekyll build 
 	cp -R _site/* $(GH_PAGES_DIR)/;
 		
 serve: clean
-	jekyll serve --watch
+	bundle exec jekyll serve --host `hostname -A` --incremental
 
 GH_PAGES_DIR = ../stenglein-lab.github.io

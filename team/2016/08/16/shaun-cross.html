@@ -6,6 +6,9 @@
 	<title>Shaun Cross</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="" href="http://stengleinlab.org/feed.xml">
+	
     <!-- Customized Bootstrap + Font Awesome + Solarized -->
     <link href="/css/style.css" rel="stylesheet" media="screen">
 
@@ -13,21 +16,35 @@
 	<link rel="shortcut icon" href="/images/favicon.png"/>	
 
 	<!-- Typekit -->
-	<script type="text/javascript" src="//use.typekit.net/xeu8jut.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script>
+	  (function(d) {
+		var config = {
+		  kitId: 'xeu8jut',
+		  scriptTimeout: 3000
+		},
+		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
 		
 	<!-- Google Analytics -->	
-   <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-   
-     ga('create', 'UA-55282509-1', 'auto');
-     ga('send', 'pageview');
-   
-   </script>
-			
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-55282509-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+	
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+	
+	<!-- Bootstrap -->
+	<script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script>
+
 </head>
 
 <body>
@@ -35,41 +52,50 @@
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
 			<div class="container">	
-				
 				<div class="navbar-header">
-					<object class="pull-left logo" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">Stenglein Lab</a>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+										
+					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+					<a class="navbar-brand" href="/">Stenglein lab</a>
+					
 				</div>
-				
-				<ul class="nav navbar-nav navbar-right">
-					
-					<li>
-					
-					<a href="/blog/">blog</a>
-					</li>
-					
-					<li>
-					
-					<a href="/protocols/">protocols</a></li>
-					
-					<li>
-					
-					<a href="/software/">software</a></li>
-					
-					<li>
-					
-					<a href="/papers/">papers</a></li>
-               <!--
-					
-					<li>
-					
-					<a href="/projects/">projects</a></li>	  
-               -->
-					
-					<li class="active">
-					
-					<a href="/team/">team</a></li>	  	  
-				</ul>
+				<div class="collapse navbar-collapse" id="navbar-collapse-element">
+					<ul class="nav navbar-nav navbar-right">
+						
+						<li>
+						
+						<a href="/blog/">blog</a>
+						</li>
+						
+                                                <li>
+                                                
+                                                <a href="/protocols/">protocols</a></li>
+                                                
+                                                <li>
+                                                
+                                                <a href="/software/">software</a></li>
+						
+						<li>
+						
+						<a href="/papers/">papers</a>
+						<!--
+						</li>
+						
+						<li>
+						
+						<a href="/projects/">projects</a></li>	  
+						-->
+						
+						<li class="active">
+						
+						<a href="/team/">team</a></li>	  	  
+					</ul>
+				</div>
 			</div>
 		</nav>	
 	</div>
@@ -78,15 +104,13 @@
 		
 	
 
-<div class="bigspacer"></div>
-
 <div class="row">
 	<div class="col-md-12">
 		<div class="media">
 			
-			<img class="pull-left pad-right media-object" width=200 src="/images/team/Shaun.jpg">
+			<img class="pull-left pad-right media-object" width=120 src="/images/team/Shaun.jpg">
 			
-			<div class="media-body">
+			<div class="media-body titlebox">
 				<div class="bigtitle media-heading">
 					Shaun Cross
 				</div>
@@ -96,27 +120,31 @@
 				</div>
 			</div>
 		</div>
-	</div>				
+	</div>
 </div>
 
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-3">  			
-			  		
-			
-				
-						   	
-								
+	<div class="col-md-3">
+		
+		
+		
+		
+		
+		
+		
 	</div>
-	<div class="col-md-8">	
+	<div class="col-md-8">
 		<div class="post">
-			<p>Shaun is a PhD student in the MIP <a href="http://csu-cvmbs.colostate.edu/academics/mip/graduate/Pages/Microbiology-MS-and-PhD-Program.aspx">graudate program</a> who joined the lab in 2017.  Shaun received a <a href="http://gaussi.colostate.edu/">GAUSSI</a> fellowship in 2017.</p>
-
+			<p>Shaun is a PhD student in the MIP <a href="http://csu-cvmbs.colostate.edu/academics/mip/graduate/Pages/Microbiology-MS-and-PhD-Program.aspx">graudate program</a> who joined the lab in 2017.  Shaun received a <a href="http://gaussi.colostate.edu/">GAUSSI</a> fellowship in 2017.  Shaun completed his PhD in 2020 and went on to a Cornell University Institute of Host-Microbe Interactions and Disease (<a href="http://cihmid.com/index.html">CIHMID</a>) postdoctoral fellowship.</p>
 
 		</div>
+
 		
 		
+		
+
 		
 
 		
@@ -125,6 +153,7 @@
 		<div class="spacer"></div>
 		
 		
+		<p><a href="/papers/2020/11/24/Hoon-Hanks.html" class="off">Serpentovirus (Nidovirus) and Orthoreovirus Coinfection in Captive Veiled Chameleons (Chamaeleo calyptratus) with Respiratory Disease</a>
 		
 		
 		
@@ -132,8 +161,8 @@
 		
 		
 		
+		<p><a href="/papers/2020/08/08/Cross.html" class="off">Partitiviruses Infecting Drosophila melanogaster and Aedes aegypti Exhibit Efficient Biparental Vertical Transmission</a>
 		
-		<p><a href="/papers/2018/07/22/Cross_tick_metagenome.html" class="off">Co-Infection Patterns in Individual Ixodes scapularis Ticks Reveal Associations between Viral, Eukaryotic and Bacterial Microorganisms</a>
 		
 		
 		
@@ -142,6 +171,7 @@
 		
 		
 		
+		<p><a href="/papers/2019/10/03/Hoon-Hanks_serpentovirus.html" class="off">Longitudinal and Cross-Sectional Sampling of Serpentovirus (Nidovirus) Infection in Captive Snakes Reveals High Prevalence, Persistent Infection, and Increased Mortality in Pythons and Divergent Serpentovirus Infection in Boas and Colubrids</a>
 		
 		
 		
@@ -198,31 +228,43 @@
 		
 		
 		
-				
 		
 		
 		
-									
 		
 		
 		
-			
 		
-	</div>			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+
+		
+
+		
+
+	</div>
 	<div class="col-md-1"></div>
-</div>	
+</div>
 
 	
 	</div>
-		
+	
 	<div id="footer"><span style="display:none">foo</span></div>
-	    		
-	<!-- MathJax support -->
-	<!-- <script type="text/javascript" -->
-	 <!-- <src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-	<!-- MathJax config -->
-	<!-- <script src="/js/mathjax.config.js"></script>	 -->
-			
+		
 </body>
 </html>
 

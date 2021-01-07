@@ -6,6 +6,9 @@
 	<title>Evolutionarily conserved and non-conserved retrovirus restriction activities of artiodactyl APOBEC3F proteins.</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="" href="http://stengleinlab.org/feed.xml">
+	
     <!-- Customized Bootstrap + Font Awesome + Solarized -->
     <link href="/css/style.css" rel="stylesheet" media="screen">
 
@@ -13,21 +16,35 @@
 	<link rel="shortcut icon" href="/images/favicon.png"/>	
 
 	<!-- Typekit -->
-	<script type="text/javascript" src="//use.typekit.net/xeu8jut.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script>
+	  (function(d) {
+		var config = {
+		  kitId: 'xeu8jut',
+		  scriptTimeout: 3000
+		},
+		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
 		
 	<!-- Google Analytics -->	
-   <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-   
-     ga('create', 'UA-55282509-1', 'auto');
-     ga('send', 'pageview');
-   
-   </script>
-			
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-55282509-1', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+	
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+	
+	<!-- Bootstrap -->
+	<script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script>
+
 </head>
 
 <body>
@@ -35,41 +52,50 @@
 	<div id="header">
 		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
 			<div class="container">	
-				
 				<div class="navbar-header">
-					<object class="pull-left logo" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">Stenglein Lab</a>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+										
+					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+					<a class="navbar-brand" href="/">Stenglein lab</a>
+					
 				</div>
-				
-				<ul class="nav navbar-nav navbar-right">
-					
-					<li>
-					
-					<a href="/blog/">blog</a>
-					</li>
-					
-					<li>
-					
-					<a href="/protocols/">protocols</a></li>
-					
-					<li>
-					
-					<a href="/software/">software</a></li>
-					
-					<li>
-					
-					<a href="/papers/">papers</a></li>
-               <!--
-					
-					<li>
-					
-					<a href="/projects/">projects</a></li>	  
-               -->
-					
-					<li>
-					
-					<a href="/team/">team</a></li>	  	  
-				</ul>
+				<div class="collapse navbar-collapse" id="navbar-collapse-element">
+					<ul class="nav navbar-nav navbar-right">
+						
+						<li>
+						
+						<a href="/blog/">blog</a>
+						</li>
+						
+                                                <li>
+                                                
+                                                <a href="/protocols/">protocols</a></li>
+                                                
+                                                <li>
+                                                
+                                                <a href="/software/">software</a></li>
+						
+						<li>
+						
+						<a href="/papers/">papers</a>
+						<!--
+						</li>
+						
+						<li>
+						
+						<a href="/projects/">projects</a></li>	  
+						-->
+						
+						<li>
+						
+						<a href="/team/">team</a></li>	  	  
+					</ul>
+				</div>
 			</div>
 		</nav>	
 	</div>
@@ -128,7 +154,7 @@
 	</div>
 	<div class="col-md-8">
 		<div class="post">
-			<h1 id="abstract">Abstract</h1>
+			<h1>Abstract</h1>
 
 <p>The APOBEC3 proteins are unique to mammals. Many inhibit retrovirus infection through a cDNA cytosine deamination mechanism. HIV-1 neutralizes this host defense through Vif, which triggers APOBEC3 ubiquitination and degradation. Here, we report an APOBEC3F-like, double deaminase domain protein from three artiodactyls: cattle, pigs and sheep. Like their human counterparts, APOBEC3F and APOBEC3G, the artiodactyl APOBEC3F proteins are DNA cytosine deaminases that locate predominantly to the cytosol and can inhibit the replication of HIV-1 and MLV. Retrovirus restriction is attributable to deaminase-dependent and -independent mechanisms, as deaminase-defective mutants retain significant anti-retroviral activity. However, unlike human APOBEC3F and APOBEC3G, the artiodactyl APOBEC3F proteins have an active N-terminal DNA cytosine deaminase domain, which elicits a broader dinucleotide deamination preference, and they are resistant to HIV-1 Vif. These data indicate that DNA cytosine deamination; sub-cellular localization and retrovirus restriction activities are conserved in mammals, whereas active site location, local mutational preferences and Vif susceptibility are not. Together, these studies indicate that some properties of the mammal-specific, APOBEC3-dependent retroelement restriction system are necessary and conserved, but others are simultaneously modular and highly adaptable.</p>
 
@@ -139,15 +165,9 @@
 
 	
 	</div>
-		
+	
 	<div id="footer"><span style="display:none">foo</span></div>
-	    		
-	<!-- MathJax support -->
-	<!-- <script type="text/javascript" -->
-	 <!-- <src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-	<!-- MathJax config -->
-	<!-- <script src="/js/mathjax.config.js"></script>	 -->
-			
+		
 </body>
 </html>
 
