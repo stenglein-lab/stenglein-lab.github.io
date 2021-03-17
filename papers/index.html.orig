@@ -107,6 +107,34 @@
     <div class="row">
 		<div class="col-md-8 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/2021/03/01/Kapuscinski_bunyas.html">
+    				<img width=100 class="media-object" src="/images/papers/kapuscinski_bunya.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2021/03/01/Kapuscinski_bunyas.html" class="off">Genomic characterization of 99 viruses from the bunyavirus families Nairoviridae, Peribunyaviridae, and Phenuiviridae, including 35 previously unsequenced viruses</a></div>
+    				<p class="note">PLoS Pathog. 2021 Mar 1;17(3):e1009315. PLoS Pathogens</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-8 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2021/02/16/Kopanke_reassortment.html">
+    				<img width=100 class="media-object" src="/images/papers/Kopanke_BTV_2021.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2021/02/16/Kopanke_reassortment.html" class="off">In Vitro Reassortment between Endemic Bluetongue Viruses Features Global Shifts in Segment Frequencies and Preferred Segment Combinations</a></div>
+    				<p class="note">Microorganisms. 2021 Feb 16;9(2):405 Microorganisms</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-8 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/2020/11/24/Hoon-Hanks.html">
     				<img width=100 class="media-object" src="/images/papers/hoon_hanks_2020.png">
   				</a>
