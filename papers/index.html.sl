@@ -110,6 +110,40 @@
       </div>
 		<div class="col-md-11 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/2021/11/02/Bashor_cats.html">
+    				<img width=100 class="media-object" src="/images/papers/spike_structure.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2021/11/02/Bashor_cats.html" class="off">SARS-CoV-2 evolution in animals suggests mechanisms for rapid variant selection</a></div>
+    				<p class="note">Proc Natl Acad Sci U S A.  2021 Nov 2; 118(44):e2105253118. Proc Natl Acad Sci U S A.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2021</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2021/04/01/Ragan_solavax.html">
+    				<img width=100 class="media-object" src="/images/papers/solavax.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2021/04/01/Ragan_solavax.html" class="off">A Whole Virion Vaccine for COVID-19 Produced via a Novel Inactivation Method and Preliminary Demonstration of Efficacy in an Animal Challenge Model</a></div>
+    				<p class="note">Vaccines.  2021 Apr 1; 9(4):340. Vaccines</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2021</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/2021/03/01/Kapuscinski_bunyas.html">
     				<img width=100 class="media-object" src="/images/papers/kapuscinski_bunya.png">
   				</a>

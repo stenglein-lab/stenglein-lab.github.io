@@ -6,9 +6,95 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Mar 2021 09:43:14 -0600</pubDate>
-    <lastBuildDate>Wed, 17 Mar 2021 09:43:14 -0600</lastBuildDate>
+    <pubDate>Wed, 17 Nov 2021 16:25:43 -0700</pubDate>
+    <lastBuildDate>Wed, 17 Nov 2021 16:25:43 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>SARS-CoV-2 evolution in animals suggests mechanisms for rapid variant selection</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Abstract&lt;/p&gt;
+
+&lt;p&gt;SARS-CoV-2 spillback from humans into domestic and wild animals has been well documented, and an accumulating number of studies illustrate that human-to-animal transmission is widespread in cats, mink, deer, and other species. Experimental inoculations of cats, mink, and ferrets have perpetuated transmission cycles. We sequenced full genomes of Vero cell-expanded SARS-CoV-2 inoculum and viruses recovered from cats (n = 6), dogs (n = 3), hamsters (n = 3), and a ferret (n = 1) following experimental exposure. Five nonsynonymous changes relative to the USA-WA1/2020 prototype strain were near fixation in the stock used for inoculation but had reverted to wild-type sequences at these sites in dogs, cats, and hamsters within 1- to 3-d postexposure. A total of 14 emergent variants (six in nonstructural genes, six in spike, and one each in orf8 and nucleocapsid) were detected in viruses recovered from animals. This included substitutions in spike residues H69, N501, and D614, which also vary in human lineages of concern. Even though a live virus was not cultured from dogs, substitutions in replicase genes were detected in amplified sequences. The rapid selection of SARS-CoV-2 variants in vitro and in vivo reveals residues with functional significance during host switching. These observations also illustrate the potential for spillback from animal hosts to accelerate the evolution of new viral lineages, findings of particular concern for dogs and cats living in households with COVID-19 patients. More generally, this glimpse into viral host switching reveals the unrealized rapidity and plasticity of viral evolution in experimental animal model systems.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Nov 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2021/11/02/Bashor_cats.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2021/11/02/Bashor_cats.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Audrey Bankes</title>
+        <description>&lt;p&gt;Audrey is an undergraduate researcher who began in the lab in the fall of 2021.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Sep 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2021/09/01/audrey-bankes.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2021/09/01/audrey-bankes.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Kim Awuor Onyango</title>
+        <description>&lt;p&gt;Kim is an undergraduate microbiology major who joined the lab to perform directed research in the summer of 2021 as a departmental undergraduate research fellow.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 May 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2021/05/25/kim-onyango.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2021/05/25/kim-onyango.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Sydney Perkins</title>
+        <description>&lt;p&gt;Sydney is a CSU undergraduate who performed research in the lab in the summer of 2021.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 May 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2021/05/01/sydney-perkins.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2021/05/01/sydney-perkins.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Brian (Keller) Gonzalez</title>
+        <description>&lt;p&gt;Keller is an undergraduate at UC Berkeley who performed research in the lab in the summer of 2021.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 May 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2021/05/01/keller-gonzalez.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2021/05/01/keller-gonzalez.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>A Whole Virion Vaccine for COVID-19 Produced via a Novel Inactivation Method and Preliminary Demonstration of Efficacy in an Animal Challenge Model</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Abstract&lt;/p&gt;
+
+&lt;p&gt;The COVID-19 pandemic has generated intense interest in the rapid development and evaluation of vaccine candidates for this disease and other emerging diseases. Several novel methods for preparing vaccine candidates are currently undergoing clinical evaluation in response to the urgent need to prevent the spread of COVID-19. In many cases, these methods rely on new approaches for vaccine production and immune stimulation. We report on the use of a novel method (SolaVAX) for production of an inactivated vaccine candidate and the testing of that candidate in a hamster animal model for its ability to prevent infection upon challenge with SARS-CoV-2 virus. The studies employed in this work included an evaluation of the levels of neutralizing antibody produced post-vaccination, levels of specific antibody sub-types to RBD and spike protein that were generated, evaluation of viral shedding post-challenge, flow cytometric and single cell sequencing data on cellular fractions and histopathological evaluation of tissues post-challenge. The results from this preliminary evaluation provide insight into the immunological responses occurring as a result of vaccination with the proposed vaccine candidate and the impact that adjuvant formulations, specifically developed to promote Th1 type immune responses, have on vaccine efficacy and protection against infection following challenge with live SARS-CoV-2. This data may have utility in the development of effective vaccine candidates broadly. Furthermore, the results of this preliminary evaluation suggest that preparation of a whole virion vaccine for COVID-19 using this specific photochemical method may have potential utility in the preparation of one such vaccine candidate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Apr 2021 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2021/04/01/Ragan_solavax.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2021/04/01/Ragan_solavax.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>Genomic characterization of 99 viruses from the bunyavirus families Nairoviridae, Peribunyaviridae, and Phenuiviridae, including 35 previously unsequenced viruses</title>
@@ -49,6 +135,19 @@
       </item>
     
       <item>
+        <title>Lexi Keene</title>
+        <description>&lt;p&gt;Lexi is a PhD student in the &lt;a href=&quot;https://cmb.colostate.edu/&quot;&gt;Cell and Molecular Biology&lt;/a&gt; graduate program who joined the lab in 2021.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/team/2021/01/01/lexi-keene.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2021/01/01/lexi-keene.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
         <title>Serpentovirus (Nidovirus) and Orthoreovirus Coinfection in Captive Veiled Chameleons (Chamaeleo calyptratus) with Respiratory Disease</title>
         <description>&lt;h2&gt;Abstract&lt;/h2&gt;
 
@@ -60,145 +159,6 @@
         
         
         <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>The Genetic Diversification of a Single Bluetongue Virus Strain Using an In Vitro Model of Alternating-Host Transmission</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Bluetongue virus (BTV) is an arbovirus that has been associated with dramatic epizootics in both wild and domestic ruminants in recent decades. As a segmented, double-stranded RNA virus, BTV can evolve via several mechanisms due to its genomic structure. However, the effect of BTV&amp;#39;s alternating-host transmission cycle on the virus&amp;#39;s genetic diversification remains poorly understood. Whole genome sequencing approaches offer a platform for investigating the effect of host-alternation across all ten segments of BTV&amp;#39;s genome. To understand the role of alternating hosts in BTV&amp;#39;s genetic diversification, a field isolate was passaged under three different conditions: (i) serial passages in Culicoides sonorensis cells, (ii) serial passages in bovine pulmonary artery endothelial cells, or (iii) alternating passages between insect and bovine cells. Aliquots of virus were sequenced, and single nucleotide variants were identified. Measures of viral population genetics were used to quantify the genetic diversification that occurred. Two consensus variants in segments 5 and 10 occurred in virus from all three conditions. While variants arose across all passages, measures of genetic diversity remained largely similar across cell culture conditions. Despite passage in a relaxed in vitro system, we found that this BTV isolate exhibited genetic stability across passages and conditions. Our findings underscore the valuable role that whole genome sequencing may play in improving understanding of viral evolution and highlight the genetic stability of BTV. &lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2020 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2020/09/23/Kopanke.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2020/09/23/Kopanke.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Cross-Species Transmission and Evolution of SIV Chimpanzee Progenitor Viruses Toward HIV-1 in Humanized Mice</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;The genetic evolution of HIV-1 from its progenitor virus SIV following cross-species transmission is not well understood. Here we simulated the SIVcpz initial transmission to humans using humanized mice and followed the viral evolution during serial passages lasting more than a year. All three SIVcpz progenitor viruses used, namely LB715 and MB897 (group M) as well as EK505 (group N) readily infected hu-mice resulting in chronic viremia. Viral loads increased progressively to higher set-points and the CD4+ T cell decline became more pronounced by the end of the second serial passage indicating viral adaptation and increased pathogenicity. Viral genomes sequenced at different time points revealed many non-synonymous variants not previously reported that occurred throughout the viral genome, including the gag, pol, env, and nef genes. These results shed light on the potential changes that the SIVcpz genome had undergone during the initial stages of human infection and subsequent spread. &lt;/p&gt;
-</description>
-        <pubDate>Fri, 28 Aug 2020 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2020/08/28/Schmitt.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2020/08/28/Schmitt.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Partitiviruses Infecting Drosophila melanogaster and Aedes aegypti Exhibit Efficient Biparental Vertical Transmission</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Partitiviruses are segmented, multipartite double-stranded RNA (dsRNA) viruses that until recently were only known to infect fungi, plants, and protozoans. Metagenomic surveys have revealed that partitivirus-like sequences are also commonly associated with arthropods. One arthropod-associated partitivirus, galbut virus, is common in wild populations of Drosophila melanogaster To begin to understand the processes that underlie this virus&amp;#39;s high global prevalence, we established colonies of wild-caught infected flies. Infection remained at stably high levels over 3 years, with between 63 and 100% of individual flies infected. Galbut virus infects fly cells and replicates in tissues throughout infected adults, including reproductive tissues and the gut epithelium. We detected no evidence of horizontal transmission via ingestion, but vertical transmission from either infected females or infected males was ∼100% efficient. Vertical transmission of a related partitivirus, verdadero virus, that we discovered in a laboratory colony of Aedes aegypti mosquitoes was similarly efficient. This suggests that efficient biparental vertical transmission may be a feature of at least a subset of insect-infecting partitiviruses. To study the impact of galbut virus infection free from the confounding effect of other viruses, we generated an inbred line of flies with galbut virus as the only detectable virus infection. We were able to transmit infection experimentally via microinjection of homogenate from these galbut-only flies. This sets the stage for experiments to understand the biological impact and possible utility of partitiviruses infecting model organisms and disease vectors.&lt;/p&gt;
-
-&lt;h3&gt;Importance&lt;/h3&gt;
-
-&lt;p&gt;Galbut virus is a recently discovered partitivirus that is extraordinarily common in wild populations of the model organism Drosophila melanogaster Like for most viruses discovered through metagenomics, most of the basic biological questions about this virus remain unanswered. We found that galbut virus, along with a closely related partitivirus found in Aedes aegypti mosquitoes, is transmitted from infected females or males to offspring with ∼100% efficiency and can be maintained in laboratory colonies over years. This efficient transmission mechanism likely underlies the successful spread of these viruses through insect populations. We created Drosophila lines that contained galbut virus as the only virus infection and showed that these flies can be used as a source for experimental infections. This provides insight into how arthropod-infecting partitiviruses may be maintained in nature and sets the stage for exploration of their biology and potential utility.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Aug 2020 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2020/08/08/Cross.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2020/08/08/Cross.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>A Novel Retrovirus (Gunnison's Prairie Dog Retrovirus) Associated With Thymic Lymphoma in Gunnison's Prairie Dogs in Colorado, USA</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;As part of research and wildlife disease surveillance efforts, we performed necropsy examinations of 125 free-ranging (n = 114) and captive (n = 11) prairie dogs in Colorado from 2009 to 2017. From these cases, we identified three cases of thymic lymphoma in free-ranging Gunnison&amp;#39;s prairie dogs (Cynomys gunnisoni), and we identified a novel retroviral sequence associated with these tumors. The viral sequence is 7700 nucleotides in length and exhibits a genetic organization that is consistent with the characteristics of a type D betaretrovirus. The proposed name of this virus is Gunnison&amp;#39;s prairie dog retrovirus (GPDRV). We screened all 125 prairie dogs for the presence of GPDRV using PCR with envelope-specific primers and DNA extracted from spleen samples. Samples were from Gunnison&amp;#39;s prairie dogs (n = 59), black-tailed prairie dogs (Cynomys ludovicianus) (n = 40), and white-tailed prairie dogs (Cynomys leucurus) (n = 26). We identified GPDRV in a total of 7/125 (5.6%) samples including all three of the prairie dogs with thymic lymphoma, as well as spleen from an additional four Gunnison&amp;#39;s prairie dogs with no tumors recognized at necropsy. None of the GPDRV-negative Gunnison&amp;#39;s prairie dogs had thymic lymphomas. We also identified a related, apparently endogenous retroviral sequence in all prairie dog samples. These results suggest that GPDRV infection may lead to development of thymic lymphoma in Gunnison&amp;#39;s prairie dogs.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image credit:&lt;/em&gt; &lt;em&gt;Jeff Kubina, https://commons.wikimedia.org/wiki/File:Prairie_Dog.jpg,  license: CC-BY-SA-2.0&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 06 Jun 2020 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2020/06/06/Butler.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2020/06/06/Butler.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Ecological Dynamics Impacting Bluetongue Virus Transmission in North America</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Bluetongue virus (BTV) is an arbovirus transmitted to domestic and wild ruminants by certain species of Culicoides midges. The disease resulting from infection with BTV is economically important and can influence international trade and movement of livestock, the economics of livestock production, and animal welfare. Recent changes in the epidemiology of Culicoides-transmitted viruses, notably the emergence of exotic BTV genotypes in Europe, have demonstrated the devastating economic consequences of BTV epizootics and the complex nature of transmission across host-vector landscapes. Incursions of novel BTV serotypes into historically enzootic countries or regions, including the southeastern United States (US), Israel, Australia, and South America, have also occurred, suggesting diverse pathways for the transmission of these viruses. The abundance of BTV strains and multiple reassortant viruses circulating in Europe and the US in recent years demonstrates considerable genetic diversity of BTV strains and implies a history of reassortment events within the respective regions. While a great deal of emphasis is rightly placed on understanding the epidemiology and emergence of BTV beyond its natural ecosystem, the ecological contexts in which BTV maintains an enzootic cycle may also be of great significance. This review focuses on describing our current knowledge of ecological factors driving BTV transmission in North America. Information presented in this review can help inform future studies that may elucidate factors that are relevant to longstanding and emerging challenges associated with prevention of this disease.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Image credit: Acarologiste, https://commons.wikimedia.org/wiki/File:Culicoides&lt;em&gt;female&lt;/em&gt;biting_midge.jpg, license: CC-BY-SA-4.0&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 May 2020 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2020/05/20/Mayo.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2020/05/20/Mayo.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Kai Chase</title>
-        <description>&lt;p&gt;Kai is an MIP undergraduate researcher who began working in the lab in the spring of 2020, one day before the lab temporarily shutdown because of the SARS-CoV-2 pandemic!  She returned in the fall of 2020 to continue in the lab.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Mar 2020 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/team/2020/03/01/kai-chase.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/team/2020/03/01/kai-chase.html</guid>
-        
-        
-        <category>team</category>
-        
-      </item>
-    
-      <item>
-        <title>There is no existing good evidence that 2019-nCoV originated in snakes.</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1002/JMV.25682&quot;&gt;A paper&lt;/a&gt; published online on Jan 20, 2020 in the Journal of Medical Virology, titled &lt;em&gt;Homologous recombination within the spike glycoprotein of the newly identified coronavirus 2019-nCoV may boost cross-species transmission from snake to human&lt;/em&gt; raises the intriguing possibility that a new coronavirus of substantial public health concern, 2019-nCoV, may have originated in snakes.  &lt;/p&gt;
-
-&lt;p&gt;The authors make two primary claims.  First, that 2019-nCoV is a recombinant virus. Second, that &amp;quot;...our evolutionary analysis suggest for the first time that snake is the most probable wildlife animal reservoir for the 2019-nCoV.&amp;quot;  &lt;/p&gt;
-
-&lt;p&gt;Recombination occurs when two viruses exchange genetic material. I&amp;#39;m not going to evaluate the claim that this virus may be recombinant.  &lt;/p&gt;
-
-&lt;p&gt;I will however, consider the evidence that this virus may have originally been transmitted to humans from snakes.  As I describe below, there is no direct evidence to support this claim, and the indirect evidence is flimsy.  &lt;/p&gt;
-
-&lt;p&gt;Many pathogens can be transmitted from other animals to humans.  Snakes were apparently one of the types of animals sold at the seafood market that has been linked to many of the initial human cases of 2019-nCoV.  So it is plausible that this virus could have been from snakes. &lt;/p&gt;
-
-&lt;p&gt;There is no direct evidence that this type of coronavirus infects snakes. The authors do not identify a similar virus in snakes, and no similar coronaviruses have been identified previously in snakes.  &lt;/p&gt;
-
-&lt;p&gt;(My lab &lt;a href=&quot;http://dx.doi.org/10.1128/mBio.01484-14&quot;&gt;has&lt;/a&gt; &lt;a href=&quot;http://dx.doi.org/10.1016/j.virol.2017.12.008&quot;&gt;studied&lt;/a&gt; &lt;a href=&quot;https://doi.org/10.3389/fvets.2019.00338&quot;&gt;respiratory viruses&lt;/a&gt; of snakes that are belong to the same umbrella virus group as 2019-nCoV, but these are distant relatives).  &lt;/p&gt;
-
-&lt;p&gt;The main line of evidence the authors present to support the claim that this virus may have originated in snakes is indirect, and based on codon usage patterns.  &lt;a href=&quot;https://en.wikipedia.org/wiki/Genetic_code&quot;&gt;Codons&lt;/a&gt; are DNA base triplets that encode a single amino acid in a protein.  The same amino acid may be encoded by different codons, so there is flexibility in how a particular protein sequence could be encoded.  Different organisms tend to use codons in a characteristic way.  Viruses that matched their codon usage to that of their host could have an evolutionary advantage.  &lt;/p&gt;
-
-&lt;p&gt;So if, as seems likely, 2019-nCoV was recently transmitted to humans from other animals, then it might be possible to discern the original host by comparing codon usage patterns of the virus to candidate hosts.  &lt;/p&gt;
-
-&lt;p&gt;The authors compare the relative codon usage of 2019-nCoV with several candidate hosts, corresponding to some of the animals that were sold in the seafood market that has been linked to this outbreak and to the most closely related cornavirus to 2019-nCoV, bat-SL-CoVZC45, which was identified in a &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/nuccore/MG772933.1&quot;&gt;bat in 2017&lt;/a&gt;.  The authors then calcualte the squared Euclidian distance between as a measure of how similar these codon usage patterns are between the various species.  The results are shown in figure 3 of the paper:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/figure_3.png&quot; alt=&quot;Figure 3&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The &amp;quot;heatmap&amp;quot; in panel A depicts the frequencies with which codons are used in different organisms.  Each column of the table is one organism.  Each row is one of 61 possible codons.  A redder color indicates that a particular codon is used more often in that organism.  A green color means that codon is used less frequently.  The heirarchical branching at the top of the figure indicates the extent to which these patterns are similar in different species.  You can see that the two similar viruses (the two left-most columns) have closely related codon usage patterns, as expected.  The two snakes have relatively similar patterns, and the mammals have similar patterns.  &lt;/p&gt;
-
-&lt;p&gt;The claim that snakes are the &amp;quot;most probable wildlife&amp;quot; origin of 2019-nCoV rest on the bar graph shown in panel B which shows the Euclidian distance between the codon usage frequency vectors of 2019-nCoV and the various possible hosts.  The distance between 2019-nCoV and the 2 snakes is ~12-15, whereas the distance between that virus and the mammals is &amp;gt;25.  At first glance, this seems convincing.  &lt;/p&gt;
-
-&lt;p&gt;But consider the case of the other coronavirus analyzed, bat-SL-CoVZC45.  This virus was isolated from a &lt;a href=&quot;http://www.bio.bris.ac.uk/research/bats/China%20bats/rhinolophussinicus.htm&quot;&gt;&lt;em&gt;Rhinolophus sinicus&lt;/em&gt; bat&lt;/a&gt; in China in 2017.  It&amp;#39;s codon usage pattern is essentially identical to that of 2019-nCoV.  Consequently, the distances between it&amp;#39;s codon usage pattern and the candidate hosts will be essentially identical to those shown in panel B.  &lt;strong&gt;By the logic presented here, the bat-SL-CoVZC45 virus, from a &lt;em&gt;Rhinolophus sinicus&lt;/em&gt; bat, is more likely to have originated from a snake than from a &lt;em&gt;Rhinolophus sinicus&lt;/em&gt; bat (which is one of the mammalian species analyzed).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It is possible to imagine a scenario where previously unknown snake coronaviruses independently transmitted to bats and to humans.  &lt;strong&gt;But in my opinion, a simpler and more likely explanation is that this kind of codon usage analysis has limited predictive value to pinpoint a virus&amp;#39;s exact host in a situation like this.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It remains possible that snakes are the source of 2019-nCoV, but the data presented here is not convincing evidence of that.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Jan 2020 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/blog/2020/01/22/did-the-new-coronavirus-come-from-snakes.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/blog/2020/01/22/did-the-new-coronavirus-come-from-snakes.html</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     
