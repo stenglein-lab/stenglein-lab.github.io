@@ -27,6 +27,18 @@
 	</script>
 		
 	<!-- Google Analytics -->	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-55282509-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-55282509-1');
+        </script>
+
+	<!--
+	 OLD GOOGLE ANALYTICS
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -37,6 +49,7 @@
 		ga('send', 'pageview');
 
 	</script>
+	-->
 	
 	<!-- jQuery -->
 	<script src="/js/jquery.min.js"></script>
