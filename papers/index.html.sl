@@ -119,6 +119,91 @@
 
     <div class="row">
 		<div class="col-md-1 paperbox">
+    	   <p class="small">2022</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2022/06/07/Stenglein_annual_review.html">
+    				<img width=100 class="media-object" src="/images/papers/2022_annual_review_thumbnail.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2022/06/07/Stenglein_annual_review.html" class="off">The Case for Studying New Viruses of New Hosts.</a></div>
+    				<p class="note">Annu Rev Virol. 2022 Jun 7. Annu Rev Virol.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2022</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2022/02/23/Albrecht_wheat_virome.html">
+    				<img width=100 class="media-object" src="/images/papers/wheat.jpeg">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2022/02/23/Albrecht_wheat_virome.html" class="off">Occurrence of Wheat Curl Mite and Mite-Vectored Viruses of Wheat in Colorado and Insights into the Wheat Virome</a></div>
+    				<p class="note">Plant Dis. 2022 Feb 23 Plant Dis.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2022</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2022/02/15/Kopanke_BTV_review.html">
+    				<img width=100 class="media-object" src="/images/papers/reassortment_2022.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2022/02/15/Kopanke_BTV_review.html" class="off">Bluetongue Research at a Crossroads. Modern Genomics Tools Can Pave the Way to New Insights</a></div>
+    				<p class="note">Annu Rev Anim Biosci. 2022 Feb 15;10:303-324. Annu Rev Anim Biosci.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2022</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2022/01/10/Anderson_everglades.html">
+    				<img width=100 class="media-object" src="/images/papers/anderson_2022.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2022/01/10/Anderson_everglades.html" class="off">Seasonal Dynamics of Mosquito-Borne Viruses in the Southwestern Florida Everglades</a></div>
+    				<p class="note">Am J Trop Med Hyg. 2022 Jan 10;106(2):610-622 Am J Trop Med Hyg.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2021</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2021/12/10/Campbell_DDVax.html">
+    				<img width=100 class="media-object" src="/images/papers/ddvax_2021.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2021/12/10/Campbell_DDVax.html" class="off">Safety study of Rift Valley Fever human vaccine candidate (DDVax) in mosquitoes.</a></div>
+    				<p class="note">Transbound Emerg Dis. 2021 Dec 10 Transbound Emerg Dis.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
     	   <p class="small">2021</p>
       </div>
 		<div class="col-md-11 paperbox">
