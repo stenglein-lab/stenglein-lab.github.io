@@ -119,6 +119,23 @@
 
     <div class="row">
 		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2023/02/15/Cross_galbut_virus_fitness.html">
+    				<img width=100 class="media-object" src="/images/papers/galbut_virus_fitness.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/02/15/Cross_galbut_virus_fitness.html" class="off">Galbut Virus Infection Minimally Influences <i>Drosophila melanogaster</i> Fitness Traits in a Strain and Sex-Dependent Manner.</a></div>
+    				<p class="note">Viruses. 2023 Feb 15;15(2):539. Viruses</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
     	   <p class="small">2022</p>
       </div>
 		<div class="col-md-11 paperbox">

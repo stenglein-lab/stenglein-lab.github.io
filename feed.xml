@@ -6,8 +6,8 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2023 09:29:10 -0700</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2023 09:29:10 -0700</lastBuildDate>
+    <pubDate>Fri, 03 Mar 2023 10:28:50 -0700</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2023 10:28:50 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -20,6 +20,21 @@
         
         
         <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Galbut Virus Infection Minimally Influences &lt;i&gt;Drosophila melanogaster&lt;/i&gt; Fitness Traits in a Strain and Sex-Dependent Manner.</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Galbut virus (family &lt;em&gt;Partitiviridae&lt;/em&gt;) infects &lt;em&gt;Drosophila melanogaster&lt;/em&gt; and can be transmitted vertically from infected mothers or infected fathers with near perfect efficiency. This form of super-Mendelian inheritance should drive infection to 100% prevalence, and indeed, galbut virus is ubiquitous in wild &lt;em&gt;D. melanogaster&lt;/em&gt; populations. However, on average, only about 60% of individual flies are infected. One possible explanation for this is that a subset of flies are resistant to infection. Although galbut virus-infected flies appear healthy, infection may be sufficiently costly to drive selection for resistant hosts, thereby decreasing overall prevalence. To test this hypothesis, we quantified a variety of fitness-related traits in galbut virus-infected flies from two lines from the &lt;em&gt;Drosophila&lt;/em&gt; Genetic Reference Panel (DGRP). Galbut virus-infected flies had no difference in average lifespan and total offspring production compared to their uninfected counterparts. Galbut virus-infected DGRP-517 flies pupated and eclosed faster than their uninfected counterparts. Some galbut virus-infected flies exhibited altered sensitivity to viral, bacterial, and fungal pathogens. The microbiome composition of flies was not measurably perturbed by galbut virus infection. Differences in phenotype attributable to galbut virus infection varied as a function of fly sex and DGRP strain, and differences attributable to infection status were dwarfed by larger differences attributable to strain and sex. Thus, galbut virus infection does produce measurable phenotypic changes, with changes being minor, offsetting, and possibly net-negative. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Feb 2023 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/papers/2023/02/15/Cross_galbut_virus_fitness.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/02/15/Cross_galbut_virus_fitness.html</guid>
+        
+        
+        <category>papers</category>
         
       </item>
     
@@ -168,21 +183,6 @@ https://www.flickr.com/photos/jacobs_ian/48419630191&lt;/p&gt;
         <pubDate>Mon, 10 Jan 2022 00:00:00 -0700</pubDate>
         <link>http://stengleinlab.org/papers/2022/01/10/Anderson_everglades.html</link>
         <guid isPermaLink="true">http://stengleinlab.org/papers/2022/01/10/Anderson_everglades.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Safety study of Rift Valley Fever human vaccine candidate (DDVax) in mosquitoes.</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Rift Valley fever virus (RVFV) is a mosquito-borne pathogen with significant human and veterinary health consequences that periodically emerges in epizootics. RVFV causes fetal loss and death in ruminants and in humans can lead to liver and renal disease, delayed-onset encephalitis, retinitis, and in some cases severe haemorrhagic fever. A live attenuated vaccine candidate (DDVax), was developed by the deletion of the virulence factors NSs and NSm from a clinical isolate, ZH501, and has proven safe and immunogenic in rodents, pregnant sheep and non-human primates. Deletion of NSm also severely restricted mosquito midgut infection and inhibited vector-borne transmission. To demonstrate environmental safety, this study investigated the replication, dissemination and transmission efficiency of DDVax in mosquitoes following oral exposure compared to RVFV strains MP-12 and ZH501. Infection and dissemination profiles were also measured in mosquitoes 7 days after they fed on goats inoculated with DDvax or MP-12. We hypothesized that DDVax would infect mosquitoes at significantly lower rates than other RVFV strains and, due to lack of NSm, be transmission incompetent. Exposure of Ae. aegypti and Cx. tarsalis to 8 log10 plaque forming units (PFU)/ml DDVax by artificial bloodmeal resulted in significantly reduced DDVax infection rates in mosquito bodies compared to controls. Plaque assays indicated negligible transmission of infectious DDVax in Cx. tarsalis saliva (1/140 sampled) and none in Ae. aegypti saliva (0/120). Serum from goats inoculated with DDVax or MP-12 did not harbour detectable infectious virus by plaque assay at 1, 2 or 3 days post-inoculation. Infectious virus was, however, recovered from Aedes and Culex bodies that fed on goats vaccinated with MP-12 (13.8% and 4.6%, respectively), but strikingly, DDvax-positive mosquito bodies were greatly reduced (4%, and 0%, respectively). Furthermore, DDVax did not disseminate to legs/wings in any of the goat-fed mosquitoes. Collectively, these results are consistent with a beneficial environmental safety profile.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 Dec 2021 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2021/12/10/Campbell_DDVax.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2021/12/10/Campbell_DDVax.html</guid>
         
         
         <category>papers</category>
