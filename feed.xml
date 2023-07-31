@@ -6,9 +6,24 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Mar 2023 10:28:50 -0700</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2023 10:28:50 -0700</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 09:15:59 -0600</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 09:15:59 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>A bioinformatics pipeline for a tick pathogen surveillance multiplex amplicon sequencing assay</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The Centers for Disease Control and Prevention&amp;#39;s national tick and tick-borne pathogen surveillance program collects information to better understand the regional distribution, prevalence, and exposure risk of host-seeking medically important ticks in the United States. A recently developed next generation sequencing (NGS) targeted multiplex PCR amplicon sequencing (MPAS) assay has enhanced the detection capabilities for &lt;em&gt;Ixodes&lt;/em&gt;-associated human pathogens found in &lt;em&gt;Ixodes scapularis&lt;/em&gt; and &lt;em&gt;Ixodes pacificus&lt;/em&gt; ticks compared to the routinely used real-time PCR assay. To operationalize the MPAS assay for the large number of tick surveillance submissions processed each year, a reproducible high throughput bioinformatics pipeline is needed. We describe the development and validation of the MPAS pipeline, a bioinformatics pipeline that identifies and summarizes amplicon sequences produced by the MPAS assay. This pipeline is portable and reproducible across different computing environments, and flexible by allowing modifications to input parameters, assay primer and reference sequences. The automation of the summary report, BLAST report, and phylogenetic analysis reduces the amount of time needed for downstream analysis. To validate this pipeline, we compared the analysis of a MPAS assay dataset consisting of 175 I. scapularis nymphs with the MPAS pipeline and previously published results analyzed with a CLC Genomic Workbench workflow. The MPAS pipeline identified the same number of positive ticks for &lt;em&gt;Anaplasma phagocytophilum&lt;/em&gt; and &lt;em&gt;Babesia&lt;/em&gt; species as the original analysis, but the MPAS pipeline provided enhanced sequencing resolution of &lt;em&gt;Borrelia burgdorferi sensu lato&lt;/em&gt; co-infected samples. The reproducibility, flexibility, analysis automation, and improved sequence resolution of the MPAS pipeline make it well suited for a high throughput tick pathogen surveillance program.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 May 2023 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2023/05/27/Osikowicz_MPAS.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/05/27/Osikowicz_MPAS.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>Taylor Gelpi</title>
@@ -168,21 +183,6 @@ https://www.flickr.com/photos/jacobs_ian/48419630191&lt;/p&gt;
         <pubDate>Tue, 15 Feb 2022 00:00:00 -0700</pubDate>
         <link>http://stengleinlab.org/papers/2022/02/15/Kopanke_BTV_review.html</link>
         <guid isPermaLink="true">http://stengleinlab.org/papers/2022/02/15/Kopanke_BTV_review.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Seasonal Dynamics of Mosquito-Borne Viruses in the Southwestern Florida Everglades</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Mosquitoes were collected for 12 consecutive months beginning June 2016, from 11 locations in the Florida Everglades, Collier County, and tested for viruses by isolation in Vero cells and subsequent identification. One species complex and 31 species of mosquitoes were identified from 668,809 specimens. Ochlerotatus taeniorhynchus comprised 72.2% of the collection. Other notable species were Anopheles crucians complex, Culex nigripalpus, Cx. erraticus, and Cx. cedecei. Seven species of virus were identified from 110 isolations: Everglades, Gumbo Limbo, Mahogany Hammock, Pahayokee, Shark River, Tensaw, and West Nile viruses. Everglades, West Nile, Tensaw, and Mahogany Hammock viruses were most frequently isolated. Largest numbers of viruses were identified from Cx. cedecei, Cx. nigripalpus, and An. crucians complex. Five species of virus were isolated from Cx. cedecei. Viruses were isolated from mangrove, cypress swamp, hardwood hammock, and sawgrass habitats. West Nile virus was isolated August through October when Cx. nigripalpus was most abundant. Everglades virus was the most frequently isolated virus from nine species of mosquitoes collected from June through August. Tensaw virus was isolated primarily from Anopheles species. Isolations were made in July, August, January, February, and April, suggesting that this virus may be present in host-seeking mosquitoes throughout the year. Mahogany Hammock, Shark River, Gumbo Limbo, and Pahayokee viruses were isolated primarily from Cx. cedecei from June through December. Shotgun metagenomic sequencing was used to document that seven pools of Cx. cedecei were infected with two arboviruses. As communities expand into the Everglades, more humans will become exposed to arboviruses.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jan 2022 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2022/01/10/Anderson_everglades.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/01/10/Anderson_everglades.html</guid>
         
         
         <category>papers</category>

@@ -123,6 +123,23 @@
       </div>
 		<div class="col-md-11 paperbox">
 			<div class="media">
+  				<a class="pull-right" href="/papers/2023/05/27/Osikowicz_MPAS.html">
+    				<img width=100 class="media-object" src="/images/papers/mpas_thumbnail.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/05/27/Osikowicz_MPAS.html" class="off">A bioinformatics pipeline for a tick pathogen surveillance multiplex amplicon sequencing assay</a></div>
+    				<p class="note">Ticks Tick Borne Dis. 2023 Sep;14(5):102207 Ticks Tick Borne Dis.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
   				<a class="pull-right" href="/papers/2023/02/15/Cross_galbut_virus_fitness.html">
     				<img width=100 class="media-object" src="/images/papers/galbut_virus_fitness.png">
   				</a>
