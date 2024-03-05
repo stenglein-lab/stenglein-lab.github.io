@@ -6,9 +6,135 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2023 09:15:59 -0600</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2023 09:15:59 -0600</lastBuildDate>
+    <pubDate>Tue, 05 Mar 2024 13:55:09 -0700</pubDate>
+    <lastBuildDate>Tue, 05 Mar 2024 13:55:09 -0700</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Brett Moehn</title>
+        <description>&lt;p&gt;Brett is a PhD student in the Microbiology, Immunology, and Pathology PhD Program who joined the lab in 2024.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;image (icon) credit: Antonis Makriyannis, public domain.  &lt;a href=&quot;https://thenounproject.com/icon/scientist-11404/&quot;&gt;source&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2024 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/team/2024/02/19/brett-moehn.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2024/02/19/brett-moehn.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Charli Geer</title>
+        <description>&lt;p&gt;Charli is a PhD student in the Cell and Molecular Biology Program who joined the lab in 2024.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Feb 2024 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/team/2024/02/13/charli-geer.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2024/02/13/charli-geer.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Assessing Reassortment between Bluetongue Virus Serotypes 10 and 17 at Different Coinfection Ratios in Culicoides sonorenesis</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Bluetongue virus (BTV) is a segmented, double-stranded RNA orbivirus listed by the World Organization for Animal Health and transmitted by Culicoides biting midges. Segmented viruses can reassort, which facilitates rapid and important genotypic changes. Our study evaluated reassortment in Culicoides sonorensis midges coinfected with different ratios of BTV-10 and BTV-17. Midges were fed blood containing BTV-10, BTV-17, or a combination of both serotypes at 90:10, 75:25, 50:50, 25:75, or 10:90 ratios. Midges were collected every other day and tested for infection using pan BTV and cox1 (housekeeping gene) qRT-PCR. A curve was fit to the ∆Ct values (pan BTV Ct-cox1 Ct) for each experimental group. On day 10, the midges were processed for BTV plaque isolation. Genotypes of the plaques were determined by next-generation sequencing. Pairwise comparison of ∆Ct curves demonstrated no differences in viral RNA levels between coinfected treatment groups. Plaque genotyping indicated that most plaques fully aligned with one of the parental strains; however, reassortants were detected, and in the 75:25 pool, most plaques were reassortant. Reassortant prevalence may be maximized upon the occurrence of reassortant genotypes that can outcompete the parental genotypes. BTV reassortment and resulting biological consequences are important elements to understanding orbivirus emergence and evolution. &lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/papers/2024/02/02/Carpenter_reassortment_ratios.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2024/02/02/Carpenter_reassortment_ratios.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Draft genome sequence of Planococcus sp. SK3692</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Whole-genome sequencing was performed for a Planococcus sp. isolate.  This bacterium was of interest because of its vibrant orange pigmentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image credit: Dog in Silhouette on Ocean Beach SF, Ingrid V Taylar, CC-BY-2.0 DEED, &lt;a href=&quot;https://www.flickr.com/photos/taylar/52528907765/&quot;&gt;link to original&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 -0700</pubDate>
+        <link>http://stengleinlab.org/papers/2024/01/17/Kiehl_Planococcus_genome.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2024/01/17/Kiehl_Planococcus_genome.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Whole-genome sequence of Paenibacillus sp., isolated from soil, Fort Collins, Colorado, USA</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;A whole genome sequence of a Paenibacillus sp. bacterium isolated from soil in Fort Collins, Colorado was obtained. This bacterium was of particular interest due to its antibiotic potential against Gram-positive pathogen surrogates.&lt;/p&gt;
+
+&lt;p&gt;*Image credit: A colony generated by the Branching (Tip splitting) morphotype bacteria of P. dendritiformis. The image was taken in Prof. Ben-Jacob&amp;#39;s lab, Tel-Aviv University, Israel.  CC-BY-SA-3.0.  &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Paenibacillus_dendritiformis_colony.png&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Oct 2023 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2023/10/19/Kiehl_Paenibacillus_genome.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/10/19/Kiehl_Paenibacillus_genome.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Assessing shared respiratory pathogens between domestic (Ovis aries) and bighorn (Ovis canadensis) sheep; methods for multiplex PCR, amplicon sequencing, and bioinformatics to characterize respiratory flora</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Respiratory disease is responsible for dramatic population declines in bighorn sheep (&lt;em&gt;Ovis canadensis&lt;/em&gt;), and respiratory pathogen diagnostics contribute to the management of bighorn populations. To create a comprehensive and consistent approach to bighorn sheep respiratory diagnostics, we created a culture-independent assay to detect and strain type &lt;em&gt;Mannheimia haemolytica&lt;/em&gt;, &lt;em&gt;Bibersteinia trehalosi&lt;/em&gt;, &lt;em&gt;Pasteurella multocida&lt;/em&gt;, and &lt;em&gt;Mycoplasma ovipneumoniae&lt;/em&gt;. The assay also detects and characterizes the &lt;em&gt;Pasteurellaceae&lt;/em&gt; leukotoxin A gene, and broadly assesses the bacterial composition of each sample based on 16S rRNA sequences. The assay is based on a three-step approach: 1) Multiplex PCR to amplify targets including eight loci for each bacterial species, the &lt;em&gt;Pasteurellaceae lktA&lt;/em&gt; gene, and the 16S rRNA gene 2) Library preparation, barcoding, and short-read Illumina sequencing to determine the genetic sequences of each target, and 3) Bioinformatics in the form of automated software to analyze genetic sequences. The assay was designed to assess shared pathogens between domestic and bighorn sheep, but could be useful for many applications in bighorn sheep respiratory disease research and management.&lt;/p&gt;
+
+&lt;p&gt;*Image credit: Bighorn Sheep Ram, USFWS Mountain-Prairie, Public Domain, &lt;a href=&quot;https://www.flickr.com/photos/usfwsmtnprairie/49727914073&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Oct 2023 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Evaluation of Vector-Enabled Xenosurveillance in Rural Guatemala</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Surveillance methods that permit rapid detection of circulating pathogens in low-resource settings are desperately needed. In this study, we evaluated a mosquito bloodmeal-based surveillance method (“xenosurveillance”) in rural Guatemala. Twenty households from two villages (Los Encuentros and Chiquirines) in rural southwest Guatemala were enrolled and underwent weekly prospective surveillance from August 2019 to December 2019 (16 weeks). When febrile illness was reported in a household, recently blood-fed mosquitoes were collected from within dwellings and blood samples taken from each member of the household. Mosquitoes were identified to species and blood sources identified by sequencing. Shotgun metagenomic sequencing was used to identify circulating viruses. &lt;em&gt;Culex pipiens&lt;/em&gt; (60.9%) and &lt;em&gt;Aedes aegypti&lt;/em&gt; (18.6%) were the most abundant mosquitoes collected. Bloodmeal sources were most commonly human (32.6%) and chicken (31.6%), with various other mammal and avian hosts detected. Several mosquito-specific viruses were detected, including &lt;em&gt;Culex&lt;/em&gt; orthophasma virus. Human pathogens were not detected. Therefore, xenosurveillance may require more intensive sampling to detect human pathogens in Guatemala and ecologically similar localities in Central America.&lt;/p&gt;
+
+&lt;p&gt;*Image credit: US Centers for Disease Control and Prevention Mosquito Image Library, public domain, &lt;a href=&quot;https://www.cdc.gov/mosquitoes/gallery/culex/index.html&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Oct 2023 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>In Situ Hybridization (RNAscope) Detection of Bluetongue Virus Serotypes 10 and 17 in Experimentally Co-Infected Culicoides sonorensis</title>
+        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Bluetongue virus (BTV) is a segmented, double-stranded RNA virus transmitted by &lt;em&gt;Culicoides&lt;/em&gt; biting midges. Infection of domestic and wild ruminants with BTV can result in a devastating disease and significant economic losses. As a virus with a segmented genome, reassortment among the BTV serotypes that have co-infected a host may increase genetic diversity, which can alter BTV transmission dynamics and generate epizootic events. The objective of this study was to determine the extent of dissemination and characterize the tropism of BTV serotypes 10 and 17 in co-infected &lt;em&gt;Culicoides sonorensis&lt;/em&gt;. Midges were exposed to both BTV serotypes via blood meal and processed for histologic slides 10 days after infection. An in situ hybridization approach was employed using the RNAscope platform to detect the nucleic acid segment 2 of both serotypes. Observations of the mosaic patterns in which serotypes did not often overlap suggest that co-infection at the cellular level may not be abundant with these two serotypes in &lt;em&gt;C. sonorensis&lt;/em&gt;. This could be a consequence of superinfection exclusion. Understanding BTV co-infection and its biological consequences will add an important dimension to the modeling of viral evolution and emergence. &lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Sep 2023 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>A bioinformatics pipeline for a tick pathogen surveillance multiplex amplicon sequencing assay</title>
@@ -28,6 +154,8 @@
       <item>
         <title>Taylor Gelpi</title>
         <description>&lt;p&gt;Taylor is an undergraduate researcher who began in the lab in the fall of 2022.  &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;image (icon) credit: James Keuning, public domain.  &lt;a href=&quot;https://thenounproject.com/icon/scientist-10278/&quot;&gt;source&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2023 00:00:00 -0700</pubDate>
         <link>http://stengleinlab.org/team/2023/02/17/taylor-gelpi.html</link>
@@ -35,157 +163,6 @@
         
         
         <category>team</category>
-        
-      </item>
-    
-      <item>
-        <title>Galbut Virus Infection Minimally Influences &lt;i&gt;Drosophila melanogaster&lt;/i&gt; Fitness Traits in a Strain and Sex-Dependent Manner.</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Galbut virus (family &lt;em&gt;Partitiviridae&lt;/em&gt;) infects &lt;em&gt;Drosophila melanogaster&lt;/em&gt; and can be transmitted vertically from infected mothers or infected fathers with near perfect efficiency. This form of super-Mendelian inheritance should drive infection to 100% prevalence, and indeed, galbut virus is ubiquitous in wild &lt;em&gt;D. melanogaster&lt;/em&gt; populations. However, on average, only about 60% of individual flies are infected. One possible explanation for this is that a subset of flies are resistant to infection. Although galbut virus-infected flies appear healthy, infection may be sufficiently costly to drive selection for resistant hosts, thereby decreasing overall prevalence. To test this hypothesis, we quantified a variety of fitness-related traits in galbut virus-infected flies from two lines from the &lt;em&gt;Drosophila&lt;/em&gt; Genetic Reference Panel (DGRP). Galbut virus-infected flies had no difference in average lifespan and total offspring production compared to their uninfected counterparts. Galbut virus-infected DGRP-517 flies pupated and eclosed faster than their uninfected counterparts. Some galbut virus-infected flies exhibited altered sensitivity to viral, bacterial, and fungal pathogens. The microbiome composition of flies was not measurably perturbed by galbut virus infection. Differences in phenotype attributable to galbut virus infection varied as a function of fly sex and DGRP strain, and differences attributable to infection status were dwarfed by larger differences attributable to strain and sex. Thus, galbut virus infection does produce measurable phenotypic changes, with changes being minor, offsetting, and possibly net-negative. &lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Feb 2023 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2023/02/15/Cross_galbut_virus_fitness.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/02/15/Cross_galbut_virus_fitness.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Divergent Serpentoviruses in Free-Ranging Invasive Pythons and Native Colubrids in Southern Florida, United States</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Burmese python (&lt;em&gt;Python bivittatus&lt;/em&gt;) is an invasive snake that has significantly affected ecosystems in southern Florida, United States. Aside from direct predation and competition, invasive species can also introduce nonnative pathogens that can adversely affect native species. The subfamily &lt;em&gt;Serpentovirinae&lt;/em&gt; (order &lt;em&gt;Nidovirales&lt;/em&gt;) is composed of positive-sense RNA viruses primarily found in reptiles. Some serpentoviruses, such as shingleback nidovirus, are associated with mortalities in wild populations, while others, including ball python nidovirus and green tree python nidovirus can be a major cause of disease and mortality in captive animals. To determine if serpentoviruses were present in invasive Burmese pythons in southern Florida, oral swabs were collected from both free-ranging and long-term captive snakes. Swabs were screened for the presence of serpentovirus by reverse transcription PCR and sequenced. A total serpentovirus prevalence of 27.8% was detected in 318 python samples. Of the initial swabs from 172 free-ranging pythons, 42 (24.4%) were positive for multiple divergent viral sequences comprising four clades across the sampling range. Both sex and snout-vent length were statistically significant factors in virus prevalence, with larger male snakes having the highest prevalence. Sampling location was statistically significant in circulating virus sequence. Mild clinical signs and lesions consistent with serpentovirus infection were observed in a subset of sampled pythons. Testing of native snakes (n = 219, 18 species) in part of the python range found no evidence of python virus spillover; however, five individual native snakes (2.3%) representing three species were PCR positive for unique, divergent serpentoviruses. Calculated pairwise uncorrected distance analysis indicated the newly discovered virus sequences likely represent three novel genera in the subfamily &lt;em&gt;Serpentovirinae&lt;/em&gt;. This study is the first to characterize serpentovirus in wild free-ranging pythons or in any free-ranging North America reptile. Though the risk these viruses pose to the invasive and native species is unknown, the potential for spillover to native herpetofauna warrants further investigation. &lt;/p&gt;
-
-&lt;h4&gt;Image credit:&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;South Florida Water Management District &lt;br&gt;
-CC BY-ND 2.0 &lt;br&gt;
-https://www.flickr.com/photos/sfwmd/49299893997/in/photostream/ &lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 06 Dec 2022 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2022/12/06/Tillis_Florida_serpentovirus.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/12/06/Tillis_Florida_serpentovirus.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Award winning talks by Marylee and Lexi</title>
-        <description>&lt;p&gt;Congratulations to Lexi Keene and Marylee Kapuscinski for their award-winning talks at this year&amp;#39;s &lt;a href=&quot;https://www.rockymountainvirologyclub.org/&quot;&gt;Rocky Mountain Virology Club Meeting&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lexi earned the 2nd place Graduate Student Talk Award for her talk titled &lt;em&gt;RNA viral metagenomics of 100-year-old Drosophila melanogaster museum specimens&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Lexi_RMVC_award.jpg&quot; alt=&quot;Lexi earned a 2nd place award&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Marylee earned the 1st place Graduate Student Talk Award for her talk titled &lt;em&gt;Minigenome Melees: A novel high throughput method to evaluate reassortment potential between segmented RNA viruses&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Marylee_RMVC_award.jpg&quot; alt=&quot;Marylee earned the 1st place award&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Marylee is pictured with the 2022 meeting&amp;#39;s keynote speaker, &lt;a href=&quot;https://labs.icahn.mssm.edu/fernandez-sesma-lab/&quot;&gt;Ana Fernandez-Sesma&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Great job you two!&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve posted about the RMVC meeting &lt;a href=&quot;/blog/2016/09/23/rmvc.html&quot;&gt;before&lt;/a&gt;.  It&amp;#39;s one of my favorite meetings each year. &lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Oct 2022 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/blog/2022/10/02/RMVC_awards.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/blog/2022/10/02/RMVC_awards.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Modeling cellular co-infection and reassortment of bluetongue virus in &lt;i&gt;Culicoides&lt;/i&gt; midges</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;When related segmented RNA viruses co-infect a single cell, viral reassortment can occur, potentially leading to new strains with pandemic potential. One virus capable of reassortment is bluetongue virus (BTV), which causes substantial health impacts in ruminants and is transmitted via &lt;em&gt;Culicoides&lt;/em&gt; midges. Because midges can become co-infected by feeding on multiple different host species and remain infected for their entire life span, there is a high potential for reassortment to occur. Once a midge is co-infected, additional barriers must be crossed for a reassortant virus to emerge, such as cellular co-infection and dissemination of reassortant viruses to the salivary glands. We developed three mathematical models of within-midge BTV dynamics of increasing complexity, allowing us to explore the conditions leading to the emergence of reassortant viruses. In confronting the simplest model with published data, we estimate that the average life span of a bluetongue virion in the midge midgut is about 6 h, a key determinant of establishing a successful infection. Examination of the full model, which permits cellular co-infection and reassortment, shows that small differences in fitness of the two infecting strains can have a large impact on the frequency with which reassortant virions are observed. This is consistent with experimental co-infection studies with BTV strains with different relative fitnesses that did not produce reassortant progeny. Our models also highlight several gaps in existing data that would allow us to elucidate these dynamics in more detail, in particular the times it takes the virus to disseminate to different tissues, and measurements of viral load and reassortant frequency at different temperatures.&lt;/p&gt;
-
-&lt;h4&gt;Image credit:&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Ceratopogonidae, Culicoides sp. 2.5 mm &lt;br&gt;
-Ian Jacobs &lt;br&gt;
-CC BY-NC 2.0 &lt;br&gt;
-https://www.flickr.com/photos/jacobs_ian/48419630191&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2022/09/30/Cavany_midges.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/09/30/Cavany_midges.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Rapid evolution of SARS-CoV-2 in domestic cats</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;SARS-CoV-2 (SARS2) infection of a novel permissive host species can result in rapid viral evolution. Data suggest that felids are highly susceptible to SARS2 infection, and species-specific adaptation following human-to-felid transmission may occur. We employed experimental infection and analysis of publicly available SARS2 sequences to observe variant emergence and selection in domestic cats. Three cohorts of cats (N = 23) were inoculated with SARS-CoV-2 USA-WA1/2020 or infected via cat-to-cat contact transmission. Full viral genomes were recovered from RNA obtained from nasal washes 1–3 days post-infection and analyzed for within-host viral variants. We detected 118 unique variants at ≥3 per cent allele frequency in two technical replicates. Seventy of these (59 per cent) were nonsynonymous single nucleotide variants (SNVs); the remainder were synonymous SNVs or structural variants. On average, we observed twelve variants per cat, nearly 10-fold higher than what is commonly reported in human patients. We observed signatures of positive selection in the spike protein and the emergence of eleven within-host variants located at the same genomic positions as mutations in SARS2 variant lineages that have emerged during the pandemic. Fewer variants were noted in cats infected from contact with other cats and in cats exposed to lower doses of cultured inoculum. An analysis of ninety-three publicly available SARS2 consensus genomes recovered from naturally infected domestic cats reflected variant lineages circulating in the local human population at the time of sampling, illustrating that cats are susceptible to SARS2 variants that have emerged in humans, and suggesting human-to-felid transmission occurring in domestic settings is typically unidirectional. These experimental results underscore the rapidity of SARS2 adaptation in felid hosts, representing a theoretical potential origin for variant lineages in human populations. Further, cats should be considered susceptible hosts capable of shedding virus during infections occurring within households.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2022/09/30/Bashor_cats.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/09/30/Bashor_cats.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>The Case for Studying New Viruses of New Hosts.</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Virology has largely focused on viruses that are pathogenic to humans or to the other species that we care most about. There is no doubt that this has been a worthwhile investment. But many transformative advances have been made through the in-depth study of relatively obscure viruses that do not appear on lists of prioritized pathogens. In this review, I highlight the benefits that can accrue from the study of viruses and hosts off the beaten track. I take stock of viral sequence diversity across host taxa as an estimate of the bias that exists in our understanding of host-virus interactions. I describe the gains that have been made through the metagenomic discovery of thousands of new viruses in previously unsampled hosts as well as the limitations of metagenomic surveys. I conclude by suggesting that the study of viruses that naturally infect existing and emerging model organisms represents an opportunity to push virology forward in useful and hard to predict ways.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Jun 2022 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2022/06/07/Stenglein_annual_review.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/06/07/Stenglein_annual_review.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Occurrence of Wheat Curl Mite and Mite-Vectored Viruses of Wheat in Colorado and Insights into the Wheat Virome</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;The wheat curl mite (WCM) is a vector of three important wheat viruses in the U.S. Great Plains, wheat streak mosaic virus (WSMV), triticum mosaic virus (TriMV), and High Plains wheat mosaic virus (HPWMoV). This study was conducted to determine the current profile of WCM and WCM-transmitted viruses of wheat and their occurrence in Colorado, including novel wheat viruses via virome analysis. There was a high rate of virus incidence in symptomatic wheat samples collected in 2019 (95%) and 2020 (77%). Single infection of WSMV was most common in both years followed by coinfection with WSMV + TriMV and WSMV + HPWMoV. Both Type 1 and Type 2 mite genotypes were found in Colorado. There was high genetic diversity of WSMV and HPWMoV isolates, whereas TriMV isolates showed minimal sequence variation. Analysis of WSMV isolates revealed novel virus variants including one isolate from a variety trial, where severe disease symptoms were observed on wheat varieties carrying Wsm2, a known virus resistance loci. Virome analysis identified between two to four sequence variants of all eight RNA segments of HPWMoV, which suggests co-occurrence of multiple genotypes within host populations and presence of a possibly novel variant of HPWMoV. A possible novel virus, Tombusviridae sp. and several mycoviruses were identified. Overall, the data presented here highlights the need to define the effect of novel WCM-transmitted virus variants on disease severity, as well as the role of novel viruses. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Image credit:&lt;/strong&gt;  Simon Waldherr, CC-SA-3.0, &lt;a href=&quot;https://500px.com/photo/219038809/wheat-by-simon-waldherr&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Feb 2022 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2022/02/23/Albrecht_wheat_virome.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/02/23/Albrecht_wheat_virome.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Bluetongue Research at a Crossroads. Modern Genomics Tools Can Pave the Way to New Insights</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Bluetongue virus (BTV) is an arthropod-borne, segmented double-stranded RNA virus that can cause severe disease in both wild and domestic ruminants. BTV evolves via several key mechanisms, including the accumulation of mutations over time and the reassortment of genome segments.Additionally, BTV must maintain fitness in two disparate hosts, the insect vector and the ruminant. The specific features of viral adaptation in each host that permit host-switching are poorly characterized. Limited field studies and experimental work have alluded to the presence of these phenomena at work, but our understanding of the factors that drive or constrain BTV&amp;#39;s genetic diversification remains incomplete. Current research leveraging novel approaches and whole genome sequencing applications promises to improve our understanding of BTV&amp;#39;s evolution, ultimately contributing to the development of better predictive models and management strategies to reduce future impacts of bluetongue epizootics.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Feb 2022 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/papers/2022/02/15/Kopanke_BTV_review.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2022/02/15/Kopanke_BTV_review.html</guid>
-        
-        
-        <category>papers</category>
         
       </item>
     

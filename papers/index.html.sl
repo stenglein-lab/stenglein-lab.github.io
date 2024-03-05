@@ -119,6 +119,108 @@
 
     <div class="row">
 		<div class="col-md-1 paperbox">
+    	   <p class="small">2024</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2024/02/02/Carpenter_reassortment_ratios.html">
+    				<img width=100 class="media-object" src="/images/papers/reassortment_ratios.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2024/02/02/Carpenter_reassortment_ratios.html" class="off">Assessing Reassortment between Bluetongue Virus Serotypes 10 and 17 at Different Coinfection Ratios in Culicoides sonorenesis</a></div>
+    				<p class="note">Viruses. 2024 Feb 2;16(2):240 Viruses</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2024</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2024/01/17/Kiehl_Planococcus_genome.html">
+    				<img width=100 class="media-object" src="/images/papers/dog_at_ocean_Ingrid_Taylar.jpg">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2024/01/17/Kiehl_Planococcus_genome.html" class="off">Draft genome sequence of Planococcus sp. SK3692</a></div>
+    				<p class="note">Microbiol Resour Announc. 2024 Jan 17;13(1):e0054523 Microbial Resource Announcements</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2023/10/19/Kiehl_Paenibacillus_genome.html">
+    				<img width=100 class="media-object" src="/images/papers/Paenibacillus_dendritiformis_colony.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/10/19/Kiehl_Paenibacillus_genome.html" class="off">Whole-genome sequence of Paenibacillus sp., isolated from soil, Fort Collins, Colorado, USA</a></div>
+    				<p class="note">Microbiol Resour Announc. 2023 Oct 19;12(10):e0054223 Microbial Resource Announcements</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html">
+    				<img width=100 class="media-object" src="/images/papers/bighorn_sheep_ram.jpg">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html" class="off">Assessing shared respiratory pathogens between domestic (Ovis aries) and bighorn (Ovis canadensis) sheep; methods for multiplex PCR, amplicon sequencing, and bioinformatics to characterize respiratory flora</a></div>
+    				<p class="note">PLoS One. 2023 Oct 19;18(10):e0293062 PLoS One</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html">
+    				<img width=100 class="media-object" src="/images/papers/Culex-quinquefasciatus-adult-during-bloodfeeding-medium.jpg">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html" class="off">Evaluation of Vector-Enabled Xenosurveillance in Rural Guatemala</a></div>
+    				<p class="note">Am J Trop Med Hyg. 2023 Oct 16;109(6):1303-1310 Am J Trop Med Hyg.</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2023</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html">
+    				<img width=100 class="media-object" src="/images/papers/pathogens-12-01207-g005a.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html" class="off">In Situ Hybridization (RNAscope) Detection of Bluetongue Virus Serotypes 10 and 17 in Experimentally Co-Infected Culicoides sonorensis</a></div>
+    				<p class="note">Pathogens. 2023 Sep 30;12(10):1207 Pathogens</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
     	   <p class="small">2023</p>
       </div>
 		<div class="col-md-11 paperbox">
