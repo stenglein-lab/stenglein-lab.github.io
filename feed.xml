@@ -6,9 +6,39 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Aug 2024 13:05:30 -0600</pubDate>
-    <lastBuildDate>Thu, 29 Aug 2024 13:05:30 -0600</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 19:23:23 -0600</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 19:23:23 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Lauren Obrien</title>
+        <description>&lt;p&gt;Lauren is an undergraduate researcher who began in the lab in the spring of 2024.&lt;/p&gt;
+
+&lt;p&gt;image (icon) credit: James Keuning, public domain. &lt;a href=&quot;https://thenounproject.com/icon/scientist-10278/&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Apr 2024 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2024/04/01/lauren-obrien.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2024/04/01/lauren-obrien.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Julia Mitchell</title>
+        <description>&lt;p&gt;Julia is an undergraduate researcher who began in the lab in the spring of 2024.&lt;/p&gt;
+
+&lt;p&gt;image (icon) credit: Iconathon, public domain. &lt;a href=&quot;https://thenounproject.com/icon/scientist-2909361/&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Mar 2024 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2024/03/28/julia-mitchell.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2024/03/28/julia-mitchell.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
     
       <item>
         <title>Brett Moehn</title>
@@ -133,36 +163,6 @@
         
         
         <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>A bioinformatics pipeline for a tick pathogen surveillance multiplex amplicon sequencing assay</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;The Centers for Disease Control and Prevention&amp;#39;s national tick and tick-borne pathogen surveillance program collects information to better understand the regional distribution, prevalence, and exposure risk of host-seeking medically important ticks in the United States. A recently developed next generation sequencing (NGS) targeted multiplex PCR amplicon sequencing (MPAS) assay has enhanced the detection capabilities for &lt;em&gt;Ixodes&lt;/em&gt;-associated human pathogens found in &lt;em&gt;Ixodes scapularis&lt;/em&gt; and &lt;em&gt;Ixodes pacificus&lt;/em&gt; ticks compared to the routinely used real-time PCR assay. To operationalize the MPAS assay for the large number of tick surveillance submissions processed each year, a reproducible high throughput bioinformatics pipeline is needed. We describe the development and validation of the MPAS pipeline, a bioinformatics pipeline that identifies and summarizes amplicon sequences produced by the MPAS assay. This pipeline is portable and reproducible across different computing environments, and flexible by allowing modifications to input parameters, assay primer and reference sequences. The automation of the summary report, BLAST report, and phylogenetic analysis reduces the amount of time needed for downstream analysis. To validate this pipeline, we compared the analysis of a MPAS assay dataset consisting of 175 I. scapularis nymphs with the MPAS pipeline and previously published results analyzed with a CLC Genomic Workbench workflow. The MPAS pipeline identified the same number of positive ticks for &lt;em&gt;Anaplasma phagocytophilum&lt;/em&gt; and &lt;em&gt;Babesia&lt;/em&gt; species as the original analysis, but the MPAS pipeline provided enhanced sequencing resolution of &lt;em&gt;Borrelia burgdorferi sensu lato&lt;/em&gt; co-infected samples. The reproducibility, flexibility, analysis automation, and improved sequence resolution of the MPAS pipeline make it well suited for a high throughput tick pathogen surveillance program.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 May 2023 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2023/05/27/Osikowicz_MPAS.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/05/27/Osikowicz_MPAS.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Taylor Gelpi</title>
-        <description>&lt;p&gt;Taylor is an undergraduate researcher who began in the lab in the fall of 2022.  &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;image (icon) credit: James Keuning, public domain.  &lt;a href=&quot;https://thenounproject.com/icon/scientist-10278/&quot;&gt;source&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Feb 2023 00:00:00 -0700</pubDate>
-        <link>http://stengleinlab.org/team/2023/02/17/taylor-gelpi.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/team/2023/02/17/taylor-gelpi.html</guid>
-        
-        
-        <category>team</category>
         
       </item>
     
