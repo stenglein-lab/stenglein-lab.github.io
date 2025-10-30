@@ -6,9 +6,39 @@
 </description>
     <link>http://stengleinlab.org/</link>
     <atom:link href="http://stengleinlab.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Aug 2024 08:10:59 -0600</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2024 08:10:59 -0600</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2025 16:24:49 -0600</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:24:49 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Riley George</title>
+        <description>&lt;p&gt;Riley is an undergraduate researcher who began in the lab in the fall of 2025.&lt;/p&gt;
+
+&lt;p&gt;image (icon) credit: Iconathon, public domain. &lt;a href=&quot;https://thenounproject.com/icon/scientist-2909361/&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Sep 2025 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2025/09/17/riley-george.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2025/09/17/riley-george.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
+    
+      <item>
+        <title>Isaac Schuler</title>
+        <description>&lt;p&gt;Isaac is a student researcher who began in the lab in the summer of 2025.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;image (icon) credit: Antonis Makriyannis, public domain.  &lt;a href=&quot;https://thenounproject.com/icon/scientist-11404/&quot;&gt;source&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2025 00:00:00 -0600</pubDate>
+        <link>http://stengleinlab.org/team/2025/05/01/isaac-schuler.html</link>
+        <guid isPermaLink="true">http://stengleinlab.org/team/2025/05/01/isaac-schuler.html</guid>
+        
+        
+        <category>team</category>
+        
+      </item>
     
       <item>
         <title>Lauren Obrien</title>
@@ -128,38 +158,6 @@
         <pubDate>Thu, 19 Oct 2023 00:00:00 -0600</pubDate>
         <link>http://stengleinlab.org/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html</link>
         <guid isPermaLink="true">http://stengleinlab.org/papers/2023/10/19/Fox_sheep_respiratory_pathogens.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Evaluation of Vector-Enabled Xenosurveillance in Rural Guatemala</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Surveillance methods that permit rapid detection of circulating pathogens in low-resource settings are desperately needed. In this study, we evaluated a mosquito bloodmeal-based surveillance method (“xenosurveillance”) in rural Guatemala. Twenty households from two villages (Los Encuentros and Chiquirines) in rural southwest Guatemala were enrolled and underwent weekly prospective surveillance from August 2019 to December 2019 (16 weeks). When febrile illness was reported in a household, recently blood-fed mosquitoes were collected from within dwellings and blood samples taken from each member of the household. Mosquitoes were identified to species and blood sources identified by sequencing. Shotgun metagenomic sequencing was used to identify circulating viruses. &lt;em&gt;Culex pipiens&lt;/em&gt; (60.9%) and &lt;em&gt;Aedes aegypti&lt;/em&gt; (18.6%) were the most abundant mosquitoes collected. Bloodmeal sources were most commonly human (32.6%) and chicken (31.6%), with various other mammal and avian hosts detected. Several mosquito-specific viruses were detected, including &lt;em&gt;Culex&lt;/em&gt; orthophasma virus. Human pathogens were not detected. Therefore, xenosurveillance may require more intensive sampling to detect human pathogens in Guatemala and ecologically similar localities in Central America.&lt;/p&gt;
-
-&lt;p&gt;*Image credit: US Centers for Disease Control and Prevention Mosquito Image Library, public domain, &lt;a href=&quot;https://www.cdc.gov/mosquitoes/gallery/culex/index.html&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Oct 2023 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/10/16/McMinn_xenosurveillance_Guatemala.html</guid>
-        
-        
-        <category>papers</category>
-        
-      </item>
-    
-      <item>
-        <title>In Situ Hybridization (RNAscope) Detection of Bluetongue Virus Serotypes 10 and 17 in Experimentally Co-Infected Culicoides sonorensis</title>
-        <description>&lt;h2&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;Bluetongue virus (BTV) is a segmented, double-stranded RNA virus transmitted by &lt;em&gt;Culicoides&lt;/em&gt; biting midges. Infection of domestic and wild ruminants with BTV can result in a devastating disease and significant economic losses. As a virus with a segmented genome, reassortment among the BTV serotypes that have co-infected a host may increase genetic diversity, which can alter BTV transmission dynamics and generate epizootic events. The objective of this study was to determine the extent of dissemination and characterize the tropism of BTV serotypes 10 and 17 in co-infected &lt;em&gt;Culicoides sonorensis&lt;/em&gt;. Midges were exposed to both BTV serotypes via blood meal and processed for histologic slides 10 days after infection. An in situ hybridization approach was employed using the RNAscope platform to detect the nucleic acid segment 2 of both serotypes. Observations of the mosaic patterns in which serotypes did not often overlap suggest that co-infection at the cellular level may not be abundant with these two serotypes in &lt;em&gt;C. sonorensis&lt;/em&gt;. This could be a consequence of superinfection exclusion. Understanding BTV co-infection and its biological consequences will add an important dimension to the modeling of viral evolution and emergence. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Sep 2023 00:00:00 -0600</pubDate>
-        <link>http://stengleinlab.org/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html</link>
-        <guid isPermaLink="true">http://stengleinlab.org/papers/2023/09/30/Carpenter_RNA_scope_coinfection.html</guid>
         
         
         <category>papers</category>
