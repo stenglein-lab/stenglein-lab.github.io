@@ -18,6 +18,7 @@ build: clean
 	cp -R _site/* $(GH_PAGES_DIR)/;
 		
 serve: clean
-	bundle exec jekyll serve --host `hostname -A` --incremental
+	# bundle exec jekyll serve --host `hostname -A` --incremental
+	bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000'
 
 GH_PAGES_DIR = ../stenglein-lab.github.io

@@ -119,6 +119,57 @@
 
     <div class="row">
 		<div class="col-md-1 paperbox">
+    	   <p class="small">2025</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2025/05/14/Keeen-Snickers_experimental_assessment_of_fly_traps.html">
+    				<img width=100 class="media-object" src="/images/papers/fly_traps.jpg">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2025/05/14/Keeen-Snickers_experimental_assessment_of_fly_traps.html" class="off">Experimental assessment of 3D-printed traps and chemical attractants for the collection of wild Drosophila melanogaster</a></div>
+    				<p class="note"> Fly</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2025</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2025/01/15/Sloan_Stenglein_outsourced_data_reproducibility.html">
+    				<img width=100 class="media-object" src="/images/papers/reproducible_outsourced_data.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2025/01/15/Sloan_Stenglein_outsourced_data_reproducibility.html" class="off">Towards ensuring reproducibility of outsourced data generation</a></div>
+    				<p class="note"> PLoS Biology</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
+    	   <p class="small">2024</p>
+      </div>
+		<div class="col-md-11 paperbox">
+			<div class="media">
+  				<a class="pull-right" href="/papers/2024/10/24/Keene-Snickers_old_RNA_sequencing.html">
+    				<img width=100 class="media-object" src="/images/papers/old_museum_specimens.png">
+  				</a>
+ 			 	<div class="media-body">
+    				<div class="smallhead media-heading"><a href="/papers/2024/10/24/Keene-Snickers_old_RNA_sequencing.html" class="off">Sequencing RNA from old, dried specimens reveals past viromes and properties of long-surviving RNA</a></div>
+    				<p class="note"> BioRxiv</p>
+  				</div>
+			</div>
+        </div>
+    </div><div class="bigspacer"></div>
+
+    <div class="row">
+		<div class="col-md-1 paperbox">
     	   <p class="small">2024</p>
       </div>
 		<div class="col-md-11 paperbox">
